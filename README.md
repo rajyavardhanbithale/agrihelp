@@ -1,4 +1,4 @@
-# Agrihelp V3
+# Agrihelp
 
 <div align="center">
   <img src="https://github.com/rajyavardhanbithale/agrihelp-3/assets/70558897/119170ad-ccc0-40e4-a127-77015b2ca910" width="250" style="border-radius: 25px;" />
