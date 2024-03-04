@@ -1,0 +1,1618 @@
+[
+    {
+        "productId": "PROD-MZ001",
+        "name": "Premium Maize Seeds - Variety A",
+        "description": "High-quality seeds for cultivating robust maize crops.",
+        "type": "seed",
+        "price": 1499.50,
+        "originalPrice": 2499.50,
+        "rating": 4.4,
+        "remainingQuantity": 105,
+        "totalSold": 92,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/MW/GF/MY-30433828/maize-seeds-500x500.jpg",
+            "https://t4.ftcdn.net/jpg/04/20/45/65/360_F_420456561_nnqiDUYF07WZqD5NvxMArEfQeDhuhD9K.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "maize"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 10,
+        "features": [
+            "Non-GMO",
+            "High-yield",
+            "Suitable for diverse climates"
+        ]
+    },
+    
+    {
+        "productId": "PROD-MZ002",
+        "name": "Premium Maize Seeds - Variety B",
+        "description": "Exceptional maize seeds for a bountiful harvest.",
+        "type": "seed",
+        "price": 1649.75,
+        "originalPrice": 2749.75,
+        "rating": 4.5,
+        "remainingQuantity": 98,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2021/8/AO/MT/XP/49534651/9181-500x500.jpeg",
+            "https://media.istockphoto.com/id/1309198153/photo/bowl-with-corn-kernels-for-popcorn.jpg?s=612x612&w=0&k=20&c=LWFFGsHmtXO_F9lqp-MD2HF6QftAIJxGpy0I2xxuw30="
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "maize"
+        ],
+        "brand": "Golden Fields",
+        "weight": 12,
+        "features": [
+            "Non-GMO",
+            "Disease-resistant",
+            "Ideal for animal feed"
+        ]
+    },
+    
+    
+    
+    {
+        "productId": "PROD-MZ003",
+        "name": "Premium Maize Seeds - Variety C",
+        "description": "Specially selected seeds for thriving maize fields.",
+        "type": "seed",
+        "price": 1399.25,
+        "originalPrice": 2349.25,
+        "rating": 4.3,
+        "remainingQuantity": 112,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://shaktivardhakhspl.com/wp-content/uploads/2021/12/Maize-Hy.-SV-521_svhs.jpg",
+            "https://www.apnikheti.com/upload/latest_updates/5145-31iCA+Cv3EL.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "maize"
+        ],
+        "brand": "Nature's Bounty",
+        "weight": 9,
+        "features": [
+            "Non-GMO",
+            "High germination rate",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-MZ005",
+        "name": "Premium Maize Seeds - Variety E",
+        "description": "Exceptionally resilient seeds for successful maize cultivation.",
+        "type": "seed",
+        "price": 1599.50,
+        "originalPrice": 2669.50,
+        "rating": 4.7,
+        "remainingQuantity": 100,
+        "totalSold": 96,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2020/9/OE/YC/MA/107504231/maize-seed-packaging-pouch.jpg",
+            "https://agribegri.com/productimage/5b8aaf21801ebd92f8729741ca7b787e-03-05-19-10-05-07.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "maize"
+        ],
+        "brand": "EcoHarvest",
+        "weight": 13,
+        "features": [
+            "Non-GMO",
+            "Adaptable to various climates",
+            "Drought-resistant"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CP001",
+        "name": "Premium Chickpea Seeds - Variety A",
+        "description": "High-quality seeds for cultivating healthy chickpea crops.",
+        "type": "seed",
+        "price": 1299.25,
+        "originalPrice": 2199.25,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://i.etsystatic.com/20705170/c/2163/2163/0/425/il/68c0b4/5085424494/il_300x300.5085424494_lkxu.jpg",
+            "https://cdn.pixabay.com/photo/2017/04/18/20/59/chickpeas-2240388_640.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "chickpea"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 8,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Suitable for various dishes"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CP002",
+        "name": "Premium Chickpea Seeds - Variety B",
+        "description": "Exceptional chickpea seeds for a bountiful harvest.",
+        "type": "seed",
+        "price": 1449.50,
+        "originalPrice": 2419.50,
+        "rating": 4.5,
+        "remainingQuantity": 112,
+        "totalSold": 98,
+        "inStock": true,
+        "images": [
+            "https://jgsj.jayagrocer.com/cdn/shop/products/066873-1-1_800x.jpg?v=1635037758",
+            "https://c8.alamy.com/comp/2FYWP76/food-background-raw-dried-chickpea-seeds-2FYWP76.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "chickpea"
+        ],
+        "brand": "Golden Fields",
+        "weight": 10,
+        "features": [
+            "Non-GMO",
+            "High-yield",
+            "Ideal for vegetarian diets"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CP003",
+        "name": "Premium Chickpea Seeds - Variety C",
+        "description": "Specially selected seeds for thriving chickpea fields.",
+        "type": "seed",
+        "price": 1199.75,
+        "originalPrice": 1999.75,
+        "rating": 4.4,
+        "remainingQuantity": 128,
+        "totalSold": 110,
+        "inStock": true,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIaiEoqiuflQ9GrcG8s847Ik_gpZ3zFWzqZYNdbOB2i8-zCyKDoEW4opxtEBX3Z6Wly3g&usqp=CAU",
+            "https://4.imimg.com/data4/WR/FY/MY-9593971/chickpea-seeds-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "chickpea"
+        ],
+        "brand": "Nature's Bounty",
+        "weight": 7,
+        "features": [
+            "Non-GMO",
+            "High fiber content",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-RICE001",
+        "name": "Premium Rice Seeds - Variety A",
+        "description": "High-quality seeds for cultivating premium rice crops.",
+        "type": "seed",
+        "price": 999.50,
+        "originalPrice": 1699.50,
+        "rating": 4.2,
+        "remainingQuantity": 150,
+        "totalSold": 130,
+        "inStock": true,
+        "images": [
+            "https://cdn.storehippo.com/s/6204bf2ecd8cdec2b3b45115/64c167ac2020b2703ed547e5/alfa-agro-tech-kyc-and-bagging-image_page-0011-250x350.jpg",
+            "https://thumbs.dreamstime.com/b/background-wallpaper-pile-paddy-rice-seed-top-view-floor-close-up-brown-grain-125541002.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "rice"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High yield",
+            "Ideal for various rice dishes"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-RICE002",
+        "name": "Premium Rice Seeds - Variety B",
+        "description": "Exceptional rice seeds for a rich and bountiful harvest.",
+        "type": "seed",
+        "price": 1149.75,
+        "originalPrice": 1919.75,
+        "rating": 4.4,
+        "remainingQuantity": 138,
+        "totalSold": 120,
+        "inStock": true,
+        "images": [
+            "https://cdn.storehippo.com/s/6204bf2ecd8cdec2b3b45115/64c16b2426339ee9dfd9e171/whatsapp-image-2022-06-29-at-8-58-06-am-480x480.jpg",
+            "https://i.pinimg.com/736x/4a/5e/f0/4a5ef0240be405d409767f2388f28a56.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "rice"
+        ],
+        "brand": "Golden Fields",
+        "weight": 6,
+        "features": [
+            "Non-GMO",
+            "Long-grain variety",
+            "Versatile for different cuisines"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-RICE003",
+        "name": "Premium Rice Seeds - Variety C",
+        "description": "Specially selected seeds for thriving rice fields.",
+        "type": "seed",
+        "price": 949.25,
+        "originalPrice": 1589.25,
+        "rating": 4.3,
+        "remainingQuantity": 160,
+        "totalSold": 140,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2023/6/315236664/EO/EP/KJ/93087792/product-jpeg-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2021/8/BX/WZ/LY/79436671/brown-rice-paddy-seed.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "grains",
+            "rice"
+        ],
+        "brand": "Nature's Bounty",
+        "weight": 4,
+        "features": [
+            "Non-GMO",
+            "Medium-grain variety",
+            "Adaptable to various climates"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-KB001",
+        "name": "Premium Kidney Bean Seeds - Variety A",
+        "description": "High-quality seeds for cultivating nutritious kidney beans.",
+        "type": "seed",
+        "price": 849.50,
+        "originalPrice": 1399.50,
+        "rating": 4.2,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/71vqfi-stOL.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2022/9/KY/SK/JR/106421319/red-kidney-beans-500x500.png"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "kidney beans"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Ideal for various dishes"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-KB002",
+        "name": "Premium Kidney Bean Seeds - Variety B",
+        "description": "Exceptional kidney bean seeds for a rich and hearty harvest.",
+        "type": "seed",
+        "price": 999.75,
+        "originalPrice": 1699.75,
+        "rating": 4.5,
+        "remainingQuantity": 98,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2022/12/ST/UP/ME/72169470/red-kidney-bean-500x500.jpg",
+            "https://m.media-amazon.com/images/I/51pvFJ++lKL._AC_UF1000,1000_QL80_.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "kidney beans"
+        ],
+        "brand": "Golden Fields",
+        "weight": 6,
+        "features": [
+            "Non-GMO",
+            "High-fiber variety",
+            "Versatile for different cuisines"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-KB003",
+        "name": "Premium Kidney Bean Seeds - Variety C",
+        "description": "Specially selected seeds for thriving kidney bean crops.",
+        "type": "seed",
+        "price": 749.25,
+        "originalPrice": 1249.25,
+        "rating": 4.3,
+        "remainingQuantity": 112,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://www.jiomart.com/images/product/original/rvmew6d5pr/minimall-super-market-red-rajma-jammu-red-kidney-beans-1-kg-product-images-orvmew6d5pr-p601758343-0-202305241755.jpg?im=Resize=(420,420)",
+            "https://gonefarmers.com/cdn/shop/products/image_0bf82061-5576-4d91-94e6-af9d0d165174_1024x1024@2x.jpg?v=1619775482"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "kidney beans"
+        ],
+        "brand": "Nature's Bounty",
+        "weight": 4,
+        "features": [
+            "Non-GMO",
+            "Rich flavor",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    {
+        "productId": "PROD-PP001",
+        "name": "Premium Pigeon Pea Seeds - Variety A",
+        "description": "High-quality seeds for cultivating nutritious pigeon peas.",
+        "type": "seed",
+        "price": 799.50,
+        "originalPrice": 1299.50,
+        "rating": 4.2,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/20220607162929103372145.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/1/LG/XO/RZ/3419218/pigeon-pea-seeds-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "pigeon peas"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Ideal for various dishes"
+        ]
+    },
+    
+    {
+        "productId": "PROD-PP002",
+        "name": "Premium Pigeon Pea Seeds - Variety B",
+        "description": "Exceptional pigeon pea seeds for a rich and hearty harvest.",
+        "type": "seed",
+        "price": 949.75,
+        "originalPrice": 1599.75,
+        "rating": 4.5,
+        "remainingQuantity": 100,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/20230913150705723528043.jpg",
+            "https://ooofarms.com/cdn/shop/products/Toor_whole.jpg?v=1672251228&width=3840"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "pigeon peas"
+        ],
+        "brand": "Golden Fields",
+        "weight": 6,
+        "features": [
+            "Non-GMO",
+            "High-fiber variety",
+            "Versatile for different cuisines"
+        ]
+    },
+    
+    {
+        "productId": "PROD-PP003",
+        "name": "Premium Pigeon Pea Seeds - Variety C",
+        "description": "Specially selected seeds for thriving pigeon pea crops.",
+        "type": "seed",
+        "price": 699.25,
+        "originalPrice": 1149.25,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://www.jiomart.com/images/product/original/rvx8szmoop/only-for-organic-pigeon-pea-seeds-20-nos-product-images-orvx8szmoop-p591142586-0-202202270724.jpg?im=Resize=(420,420)",
+            "https://tiimg.tistatic.com/fp/1/007/253/natural-brown-pigeon-pea-seeds-167.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "pigeon peas"
+        ],
+        "brand": "Nature's Bounty",
+        "weight": 4,
+        "features": [
+            "Non-GMO",
+            "Rich flavor",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-MB001",
+        "name": "Premium Moth Bean Seeds - Variety A",
+        "description": "High-quality seeds for cultivating nutritious moth beans.",
+        "type": "seed",
+        "price": 749.50,
+        "originalPrice": 1249.50,
+        "rating": 4.2,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2023/7/330209160/BW/UU/IC/184762224/product-jpeg-500x500.jpg",
+            "https://www.greendna.in/cdn/shop/products/moth2_594x.jpg?v=1591178564"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "moth beans"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Ideal for various dishes"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-MB003",
+        "name": "Premium Moth Bean Seeds - Variety C",
+        "description": "Specially selected seeds for thriving moth bean crops.",
+        "type": "seed",
+        "price": 649.25,
+        "originalPrice": 1074.25,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://www.jiomart.com/images/product/original/rvq3g7ybvv/momsy-premium-950gm-moth-beans-matki-dal-moth-bean-seeds-product-images-orvq3g7ybvv-p602701597-0-202306260310.jpg?im=Resize=(420,420)",
+            "https://c8.alamy.com/comp/2C8D6ER/close-up-picture-of-moth-beans-vigna-aconitifolia-selective-focus-2C8D6ER.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "moth beans"
+        ],
+        "brand": "Nature's Bounty",
+        "weight": 4,
+        "features": [
+            "Non-GMO",
+            "Rich flavor",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-MGB001",
+        "name": "Premium Mung Bean Seeds - Variety A",
+        "description": "High-quality seeds for cultivating nutritious mung beans.",
+        "type": "seed",
+        "price": 799.50,
+        "originalPrice": 1299.50,
+        "rating": 4.2,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://4.imimg.com/data4/QV/UX/MY-4338736/mung-seeds-guj-4-sona-5-500x500.jpg",
+            "https://cdn.wikifarmer.com/wp-content/uploads/2023/07/Mung-Bean-Plant-Information-Uses-Nutritional-Value-and-Health-Venefits.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "mung beans"
+        ],
+        "brand": "Harvest Haven",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Ideal for various dishes"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-MGB002",
+        "name": "Premium Mung Bean Seeds - Variety B",
+        "description": "Exceptional mung bean seeds for a rich and hearty harvest.",
+        "type": "seed",
+        "price": 949.75,
+        "originalPrice": 1599.75,
+        "rating": 4.5,
+        "remainingQuantity": 100,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://tiimg.tistatic.com/fp/1/002/976/sonal-guar-seeds-280.jpg",
+            "https://5.imimg.com/data5/XB/WX/FJ/SELLER-5061788/wheat-seeds.jpeg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "mung beans"
+        ],
+        "brand": "Golden Fields",
+        "weight": 6,
+        "features": [
+            "Non-GMO",
+            "High-fiber variety",
+            "Versatile for different cuisines"
+        ]
+    },
+    
+    {
+        "productId": "PROD-BG001",
+        "name": "Royal Black Gram Seeds - Ebony Elegance",
+        "description": "High-quality seeds for cultivating nutritious black grams.",
+        "type": "seed",
+        "price": 899.50,
+        "originalPrice": 1499.50,
+        "rating": 4.2,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://4.imimg.com/data4/NK/RS/MY-4338736/black-gram-seeds-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/5/312462808/HJ/ON/VP/123752371/black-gram-seed.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "black grams"
+        ],
+        "brand": "MajesticHarvest",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Versatile for various dishes"
+        ]
+    },
+    
+    {
+        "productId": "PROD-BG002",
+        "name": "Imperial Black Gram Seeds - Onyx Opulence",
+        "description": "Exceptional seeds for a rich and hearty black gram harvest.",
+        "type": "seed",
+        "price": 1049.75,
+        "originalPrice": 1799.75,
+        "rating": 4.5,
+        "remainingQuantity": 100,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2021/8/ZQ/CN/VU/85541203/alpgiri-99-research-black-gram-seeds.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/3/292161708/JS/KW/WG/935512/certified-black-gram-seed-urad--500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "black grams"
+        ],
+        "brand": "RegalFields",
+        "weight": 6,
+        "features": [
+            "Non-GMO",
+            "High-fiber variety",
+            "Ideal for different cuisines"
+        ]
+    },
+    
+    {
+        "productId": "PROD-BG006",
+        "name": "Chakravarti Black Gram Seeds - Kala Urid Sovereign",
+        "description": "Specially selected seeds for thriving black gram crops.",
+        "type": "seed",
+        "price": 799.25,
+        "originalPrice": 1349.25,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://static.agrostar.in/static/AGS-S-846_1.jpg",
+            "https://ooofarms.com/cdn/shop/products/Urad_Whole.jpg?v=1672251878"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "black grams"
+        ],
+        "brand": "SamratHarvest",
+        "weight": 4,
+        "features": [
+            "Non-GMO",
+            "Rich flavor",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    {
+        "productId": "PROD-LE001",
+        "name": "Rajdhani Lentil Seeds - Masoor Majestic",
+        "description": "High-quality seeds for cultivating nutritious lentils.",
+        "type": "seed",
+        "price": 799.50,
+        "originalPrice": 1299.50,
+        "rating": 4.2,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/91YTf6TsvGL._AC_UF894,1000_QL80_.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/4/302220419/NE/QB/GZ/116880623/rajhdani-pulses-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "lentils"
+        ],
+        "brand": "RajdhaniHarvest",
+        "weight": 5,
+        "features": [
+            "Non-GMO",
+            "High protein content",
+            "Versatile for various dishes"
+        ]
+    },
+    
+    {
+        "productId": "PROD-LE002",
+        "name": "Gulab Lentil Seeds - Masoor Rosy",
+        "description": "Exceptional seeds for a rich and hearty lentil harvest.",
+        "type": "seed",
+        "price": 949.75,
+        "originalPrice": 1599.75,
+        "rating": 4.5,
+        "remainingQuantity": 100,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/81A3ytM6MQL._AC_UF1000,1000_QL80_.jpg",
+            "https://png.pngtree.com/thumb_back/fw800/background/20220711/pngtree-vibrant-closeup-of-red-lentil-seeds-a-nourishing-vegetarian-food-background-photo-image_32669346.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "lentils"
+        ],
+        "brand": "GulabFields",
+        "weight": 6,
+        "features": [
+            "Non-GMO",
+            "High-fiber variety",
+            "Ideal for different cuisines"
+        ]
+    },
+    
+    {
+        "productId": "PROD-LE003",
+        "name": "Annapurna Lentil Seeds - Masoor Bounty",
+        "description": "Specially selected seeds for thriving lentil crops.",
+        "type": "seed",
+        "price": 699.25,
+        "originalPrice": 1149.25,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/51-iN3yyPBL._AC_UF1000,1000_QL80_.jpg",
+            "https://c8.alamy.com/comp/H6F7EN/lentils-dried-seeds-of-lentil-H6F7EN.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "legumes",
+            "lentils"
+        ],
+        "brand": "AnnapurnaHarvest",
+        "weight": 4,
+        "features": [
+            "Non-GMO",
+            "Rich flavor",
+            "Adaptable to various soils"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-PG005",
+        "name": "Sona Anar Pomegranate Seeds - Swarna Ras",
+        "description": "Exceptional seeds for growing luscious and golden-hued pomegranates.",
+        "type": "seed",
+        "price": 1399.75,
+        "originalPrice": 1999.75,
+        "rating": 4.6,
+        "remainingQuantity": 75,
+        "totalSold": 120,
+        "inStock": true,
+        "images": [
+            "https://rukminim2.flixcart.com/image/850/1000/kuu4x3k0/edible-seed/m/b/f/500-sun-dried-pomegranate-seeds-anardana-anar-beej-for-cooking-original-imag7v9tjvkhhxzw.jpeg?q=90",
+            "https://cdn.tarladalal.com/glossary/ing/pomegranate-seeds.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "pomegranates"
+        ],
+        "brand": "SonaHarvest",
+        "weight": 10,
+        "features": [
+            "Premium quality",
+            "Sweet and tangy flavor",
+            "Beautiful golden arils"
+        ]
+    },
+    
+    {
+        "productId": "PROD-PG006",
+        "name": "Divya Anar Pomegranate Seeds - Adbhut Phal",
+        "description": "Specially selected seeds for cultivating magical and exotic pomegranates.",
+        "type": "seed",
+        "price": 1099.25,
+        "originalPrice": 1599.25,
+        "rating": 4.5,
+        "remainingQuantity": 85,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://rukminim1.flixcart.com/image/850/1000/xif0q/spice-masala/u/n/s/usda-organic-sun-dried-pomegranate-seeds-500gm-anardana-anar-original-imagz66ckp78ybs7.jpeg?q=90",
+            "https://www.seriouseats.com/thmb/h4ihEFVoXa2GeyHiFmh7pwMLoac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__20100923-pomegranateseeds-primary-822553488e4d4883a1ce144084618ec7.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "pomegranates"
+        ],
+        "brand": "DivyaHarvest",
+        "weight": 9,
+        "features": [
+            "Exotic flavor profile",
+            "Rich in nutrients",
+            "Magical appearance"
+        ]
+    },
+    
+    {
+        "productId": "PROD-BN001",
+        "name": "Kela Sundar Banana Seeds - Swarna Rasa",
+        "description": "High-quality seeds for cultivating sweet and nutritious bananas.",
+        "type": "seed",
+        "price": 699.50,
+        "originalPrice": 999.50,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://www.yededo.com/cdn-cgi/image/quality%3D85/assets/images/Kuccha%20Kela.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPiHH4p-zB5bfVqU3f7qf3FzvXzCcEd3qOw&usqp=CAU"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "bananas"
+        ],
+        "brand": "SwarnaHarvest",
+        "weight": 7,
+        "features": [
+            "Organically grown",
+            "Rich in potassium",
+            "Ideal for snacks and desserts"
+        ]
+    },
+    
+    {
+        "productId": "PROD-BN002",
+        "name": "Rajtilak Banana Seeds - Kela Maharaja",
+        "description": "Exceptional seeds for cultivating royal and flavorful bananas.",
+        "type": "seed",
+        "price": 849.75,
+        "originalPrice": 1199.75,
+        "rating": 4.5,
+        "remainingQuantity": 100,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://www.shutterstock.com/image-photo/whitebrowed-scimitar-babbler-on-banana-260nw-2361409027.jpg",
+            "https://ciari.icar.gov.in/assets/img/Cheena_Kela.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "bananas"
+        ],
+        "brand": "RajtilakFarms",
+        "weight": 8,
+        "features": [
+            "Premium quality",
+            "Sweet and aromatic flavor",
+            "Fit for a king's palate"
+        ]
+    },
+    
+    {
+        "productId": "PROD-BN003",
+        "name": "Divya Kela Banana Seeds - Amrita Phal",
+        "description": "Specially selected seeds for cultivating divine and delicious bananas.",
+        "type": "seed",
+        "price": 749.25,
+        "originalPrice": 1099.25,
+        "rating": 4.4,
+        "remainingQuantity": 110,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://www.shutterstock.com/image-photo/banana-seed-cultivated-plant-musa-600nw-2225162575.jpg",
+            "https://kadiyamnursery.com/cdn/shop/products/karpoora-valli-banana-live-palntkarporavalli-valaai-kannu-live-plant-rhizome-varity-kadiyam-nursery_1200x1200.jpg?v=1662733345"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "bananas"
+        ],
+        "brand": "DivyaHarvest",
+        "weight": 6,
+        "features": [
+            "Divinely sweet",
+            "Rich in vitamins",
+            "Perfect for a healthy lifestyle"
+        ]
+    },
+    
+    {
+        "productId": "PROD-MG001",
+        "name": "Aam Sona Mango Seeds - Ratnagiri Delight",
+        "description": "High-quality seeds for cultivating sweet and succulent mangoes.",
+        "type": "seed",
+        "price": 1199.50,
+        "originalPrice": 1699.50,
+        "rating": 4.4,
+        "remainingQuantity": 85,
+        "totalSold": 110,
+        "inStock": true,
+        "images": [
+            "https://desijadibuti.com/wp-content/uploads/2020/04/Aam-guthli-4.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2022/2/IJ/EL/LM/142149447/aam-ki-giri2-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "mangoes"
+        ],
+        "brand": "RatnaHarvest",
+        "weight": 9,
+        "features": [
+            "Organically grown",
+            "Rich in vitamins",
+            "Ideal for fresh consumption"
+        ]
+    },
+    
+    {
+        "productId": "PROD-MG002",
+        "name": "Kesar King Mango Seeds - Gir Kesar Majesty",
+        "description": "Exceptional seeds for cultivating the royal and aromatic Kesar mangoes.",
+        "type": "seed",
+        "price": 1399.75,
+        "originalPrice": 1999.75,
+        "rating": 4.6,
+        "remainingQuantity": 95,
+        "totalSold": 120,
+        "inStock": true,
+        "images": [
+            "https://nurserylive.com/cdn/shop/products/nurserylive-mango-tree-kesar-grafted-plant.jpg?v=1634223741",
+            "https://5.imimg.com/data5/IOS/Default/2022/6/QP/WZ/XK/150330660/product-jpeg.png"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "mangoes"
+        ],
+        "brand": "KesarRoyals",
+        "weight": 10,
+        "features": [
+            "Premium quality",
+            "Distinctive aroma",
+            "Perfect for desserts"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-MG003",
+        "name": "Divya Aam Mango Seeds - Amrita Phal",
+        "description": "Specially selected seeds for cultivating divine and delicious mangoes.",
+        "type": "seed",
+        "price": 1099.25,
+        "originalPrice": 1599.25,
+        "rating": 4.5,
+        "remainingQuantity": 90,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/FB/QW/MY-51000699/mango-seed.jpg",
+            "https://3.imimg.com/data3/NL/EN/MY-6679805/mango-seeds-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "mangoes"
+        ],
+        "brand": "DivyaHarvest",
+        "weight": 8,
+        "features": [
+            "Divinely sweet",
+            "Rich in vitamins",
+            "Perfect for a tropical delight"
+        ]
+    },
+    
+    {
+        "productId": "PROD-GP001",
+        "name": "Angoor Ratan Grape Seeds - Gulabi Guldasta",
+        "description": "High-quality seeds for cultivating sweet and juicy grapes.",
+        "type": "seed",
+        "price": 899.50,
+        "originalPrice": 1299.50,
+        "rating": 4.3,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/716ekfdjKXL.jpg",
+            "https://www.jiomart.com/images/product/original/rvpstpzh2m/neeraj-grape-seed-angur-beej-angoor-seeds-100-gm-product-images-orvpstpzh2m-p596356953-0-202212141301.png?im=Resize=(1000,1000)"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "grapes"
+        ],
+        "brand": "GulabiHarvest",
+        "weight": 7,
+        "features": [
+            "Organically grown",
+            "Rich in antioxidants",
+            "Ideal for snacking"
+        ]
+    },
+    
+    {
+        "productId": "PROD-GP002",
+        "name": "Angoor Shehzada Grape Seeds - Sharbat Shireen",
+        "description": "Exceptional seeds for cultivating princely and flavorful grapes.",
+        "type": "seed",
+        "price": 1049.75,
+        "originalPrice": 1499.75,
+        "rating": 4.5,
+        "remainingQuantity": 100,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/61jp2UE-6NL._AC_UF1000,1000_QL80_.jpg",
+            "https://m.media-amazon.com/images/I/51tUaFi+JCL._AC_UF1000,1000_QL80_.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "grapes"
+        ],
+        "brand": "ShehzadaVines",
+        "weight": 8,
+        "features": [
+            "Premium quality",
+            "Sweet and aromatic flavor",
+            "Fit for royalty"
+        ]
+    },
+    
+    {
+        "productId": "PROD-GP003",
+        "name": "Divya Angoor Grape Seeds - Adbhut Phal",
+        "description": "Specially selected seeds for cultivating magical and exotic grapes.",
+        "type": "seed",
+        "price": 799.25,
+        "originalPrice": 1149.25,
+        "rating": 4.4,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZznfE3xFGsTqp4KwkywSlUI-fQtmpjduYw&usqp=CAU",
+            "https://www.jiomart.com/images/product/original/rvpstpzh2m/neeraj-grape-seed-angur-beej-angoor-seeds-100-gm-product-images-orvpstpzh2m-p596356953-0-202212141301.png?im=Resize=(1000,1000)"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "grapes"
+        ],
+        "brand": "DivyaHarvest",
+        "weight": 6,
+        "features": [
+            "Exotic flavor profile",
+            "Rich in nutrients",
+            "Magical sweetness"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-WM001",
+        "name": "Tarbooz Raj Watermelon Seeds - Lal Gulab",
+        "description": "High-quality seeds for cultivating sweet and refreshing watermelons.",
+        "type": "seed",
+        "price": 899.50,
+        "originalPrice": 1299.50,
+        "rating": 4.3,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/81VdVLzzm-L.jpg",
+            "https://vrmshoppe.com/wp-content/uploads/2021/05/watermelon-seeds-tarbooz-magaz-500x500-1.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "watermelons"
+        ],
+        "brand": "GulabHarvest",
+        "weight": 10,
+        "features": [
+            "Organically grown",
+            "High water content",
+            "Perfect for summer"
+        ]
+    },
+    
+    {
+        "productId": "PROD-WM003",
+        "name": "Divya Tarbooz Watermelon Seeds - Adbhut Phal",
+        "description": "Specially selected seeds for cultivating magical and exotic watermelons.",
+        "type": "seed",
+        "price": 799.25,
+        "originalPrice": 1149.25,
+        "rating": 4.4,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://www.jiomart.com/images/product/original/491438511/chuk-de-tarbooj-magaj-watermelon-seeds-100-g-product-images-o491438511-p590340737-0-202203152230.jpg?im=Resize=(420,420)",
+            "https://5.imimg.com/data5/SW/YO/MY-10577307/dried-watermelon-seeds-tarbooz-magaz-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "watermelons"
+        ],
+        "brand": "DivyaHarvest",
+        "weight": 8,
+        "features": [
+            "Exotic flavor profile",
+            "Rich in hydration",
+            "Magical sweetness"
+        ]
+    },
+    
+    {
+        "productId": "PROD-MM001",
+        "name": "Kharbuza Ratan Muskmelon Seeds - Kesar Khusboo",
+        "description": "High-quality seeds for cultivating sweet and aromatic muskmelons.",
+        "type": "seed",
+        "price": 799.50,
+        "originalPrice": 1199.50,
+        "rating": 4.2,
+        "remainingQuantity": 100,
+        "totalSold": 85,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/71POPswlJ9L._AC_UF1000,1000_QL80_.jpg",
+            "https://cdn.shopify.com/s/files/1/0606/9950/8888/products/Muskmelonseeds-farmonics_9245ccfb-5a6e-4aac-89d5-b99e30158644.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "muskmelons"
+        ],
+        "brand": "KesarHarvest",
+        "weight": 9,
+        "features": [
+            "Organically grown",
+            "Sweet and fragrant",
+            "Ideal for desserts"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-AP001",
+        "name": "Seb Sundar Apple Seeds - Safed Surshti",
+        "description": "Exceptional seeds for cultivating crisp and flavorful apples.",
+        "type": "seed",
+        "price": 1199.75,
+        "originalPrice": 1699.75,
+        "rating": 4.5,
+        "remainingQuantity": 90,
+        "totalSold": 110,
+        "inStock": true,
+        "images": [
+            "https://images.meesho.com/images/products/24342924/2592a_512.jpg",
+            "https://media.istockphoto.com/id/1029888184/photo/apple-seeds-isolated-over-white.jpg?s=612x612&w=0&k=20&c=9nfKgO2SKPTSyUFp-TkkLA8B2dikf7oHzGggOXSXdgU="
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "apples"
+        ],
+        "brand": "SafedHarvest",
+        "weight": 8,
+        "features": [
+            "Premium quality",
+            "Crisp texture",
+            "Perfect for snacking"
+        ]
+    },
+    
+    {
+        "productId": "PROD-OG001",
+        "name": "Santra Rani Orange Seeds - Kinnow Khazana",
+        "description": "High-quality seeds for cultivating sweet and tangy oranges.",
+        "type": "seed",
+        "price": 899.50,
+        "originalPrice": 1299.50,
+        "rating": 4.3,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://rukminim2.flixcart.com/image/850/1000/kjbr8280-0/plant-seed/y/e/o/2-orange-santra-2-vg354x-seed-v-seed-original-imafyx2huzxzc9se.jpeg?q=20",
+            "https://www.shutterstock.com/image-photo/orange-seed-260nw-526381069.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "oranges"
+        ],
+        "brand": "KinnowHarvest",
+        "weight": 6,
+        "features": [
+            "Organically grown",
+            "Juicy and flavorful",
+            "Rich in Vitamin C"
+        ]
+    },
+    
+    {
+        "productId": "PROD-PP001",
+        "name": "Papita Shehzada Papaya Seeds - Golden Delight",
+        "description": "Exceptional seeds for cultivating sweet and golden papayas.",
+        "type": "seed",
+        "price": 1049.75,
+        "originalPrice": 1499.75,
+        "rating": 4.4,
+        "remainingQuantity": 95,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://www.nishthaexports.in/cdn/shop/products/4NPAPAYASEEDS_1200x1200.jpg?v=1663675974",
+            "https://www.astromantra.com/wp-content/uploads/2019/12/Papaya-Seeds-2.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "papayas"
+        ],
+        "brand": "GoldenHarvest",
+        "weight": 7,
+        "features": [
+            "Premium quality",
+            "Sweet and tropical",
+            "Rich in nutrients"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CO001",
+        "name": "Nariyal Ratan Coconut Seeds - Shree Samruddhi",
+        "description": "High-quality seeds for cultivating versatile and nutritious coconuts.",
+        "type": "seed",
+        "price": 1399.50,
+        "originalPrice": 1999.50,
+        "rating": 4.6,
+        "remainingQuantity": 100,
+        "totalSold": 120,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/614Vsba6gpL._AC_UF1000,1000_QL80_.jpg",
+            "https://www.shutterstock.com/image-photo/tasty-edible-coconut-seed-within-260nw-1550478734.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "nuts",
+            "coconuts"
+        ],
+        "brand": "ShreeHarvest",
+        "weight": 12,
+        "features": [
+            "Premium quality",
+            "Versatile uses",
+            "Rich in healthy fats"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CT001",
+        "name": "Kapas Ratan Cotton Seeds - Shubh Utsav",
+        "description": "High-quality seeds for cultivating superior-quality cotton fibers.",
+        "type": "seed",
+        "price": 799.25,
+        "originalPrice": 1149.25,
+        "rating": 4.3,
+        "remainingQuantity": 120,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2022/4/ZP/KX/RI/101068562/dried-cotton-seeds-500x500.jpeg",
+            "https://thumbs.dreamstime.com/b/cotton-seeds-isolated-textil-background-brazil-61953437.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fibers",
+            "cotton"
+        ],
+        "brand": "ShubhHarvest",
+        "weight": 15,
+        "features": [
+            "High-quality fibers",
+            "Ideal for textiles",
+            "Suitable for various climates"
+        ]
+    },
+    
+    {
+        "productId": "PROD-JT001",
+        "name": "Joot Ratan Jute Seeds - Sonar Parva",
+        "description": "Exceptional seeds for cultivating strong and versatile jute fibers.",
+        "type": "seed",
+        "price": 899.50,
+        "originalPrice": 1299.50,
+        "rating": 4.4,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://panseeds.in/wp-content/uploads/2023/03/204_jro-1.png",
+            "https://t4.ftcdn.net/jpg/00/67/16/21/360_F_67162165_MjBha6BYKhe0plhLMmXuEgZeGhYBxGbA.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fibers",
+            "jute"
+        ],
+        "brand": "SonarHarvest",
+        "weight": 18,
+        "features": [
+            "Durable fibers",
+            "Ideal for textiles and crafts",
+            "Sustainable cultivation"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CF001",
+        "name": "Kapi Shehzada Coffee Seeds - Mocha Majesty",
+        "description": "High-quality seeds for cultivating rich and aromatic coffee beans.",
+        "type": "seed",
+        "price": 1049.75,
+        "originalPrice": 1499.75,
+        "rating": 4.5,
+        "remainingQuantity": 95,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SELLER/Default/2023/10/357208543/VB/RB/LA/2104778/arabica-coffee-seeds-500x500.jpg",
+            "https://cdn.pixabay.com/photo/2013/11/05/23/55/coffee-206141_640.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "beverages",
+            "coffee"
+        ],
+        "brand": "MochaHarvest",
+        "weight": 5,
+        "features": [
+            "Premium quality beans",
+            "Rich flavor profile",
+            "Ideal for brewing"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CF001",
+        "name": "Kapi Shehzada Coffee Seeds - Mocha Majesty",
+        "description": "High-quality seeds for cultivating rich and aromatic coffee beans.",
+        "type": "seed",
+        "price": 1049.75,
+        "originalPrice": 1499.75,
+        "rating": 4.5,
+        "remainingQuantity": 95,
+        "totalSold": 88,
+        "inStock": true,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/09/13/22/25/coffee-1668414_640.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/10/357208543/VB/RB/LA/2104778/arabica-coffee-seeds-500x500.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "beverages",
+            "coffee"
+        ],
+        "brand": "MochaHarvest",
+        "weight": 5,
+        "features": [
+            "Premium quality beans",
+            "Rich flavor profile",
+            "Ideal for brewing"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-AP002",
+        "name": "Ratnagiri Rani Apple Seeds - Golden Crisp",
+        "description": "Exceptional seeds for cultivating golden and crisp apples.",
+        "type": "seed",
+        "price": 1249.50,
+        "originalPrice": 1799.50,
+        "rating": 4.7,
+        "remainingQuantity": 80,
+        "totalSold": 120,
+        "inStock": true,
+        "images": [
+            "https://media.istockphoto.com/id/489907181/photo/cut-half-an-apple.jpg?s=612x612&w=0&k=20&c=ncewzAspk0OUGH9gvh2EE-qoHQPQEzzeijP8oyEc_nU=",
+            "https://media.istockphoto.com/id/1029888184/photo/apple-seeds-isolated-over-white.jpg?s=612x612&w=0&k=20&c=9nfKgO2SKPTSyUFp-TkkLA8B2dikf7oHzGggOXSXdgU="
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "apples"
+        ],
+        "brand": "GoldenCrispHarvest",
+        "weight": 9,
+        "features": [
+            "Premium quality",
+            "Crispy texture",
+            "Perfect for pies and salads"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-OG002",
+        "name": "Nagpur Shehzada Orange Seeds - Citrus Majesty",
+        "description": "High-quality seeds for cultivating regal and tangy oranges.",
+        "type": "seed",
+        "price": 949.75,
+        "originalPrice": 1349.75,
+        "rating": 4.5,
+        "remainingQuantity": 95,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://thumbs.dreamstime.com/b/cut-cross-section-detail-ripe-nagpur-orange-fruit-detail-cut-nagpur-orange-174435361.jpg",
+            "https://thumbs.dreamstime.com/b/half-sliced-nagpur-oranges-along-bowl-chia-seeds-black-orange-colour-inside-green-coloured-peal-outside-281014420.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "oranges"
+        ],
+        "brand": "CitrusRoyals",
+        "weight": 7,
+        "features": [
+            "Premium quality",
+            "Juicy and flavorful",
+            "Rich in Vitamin C"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-PP002",
+        "name": "Divine Papita Papaya Seeds - Golden Elixir",
+        "description": "Specially selected seeds for cultivating divine and golden papayas.",
+        "type": "seed",
+        "price": 899.25,
+        "originalPrice": 1249.25,
+        "rating": 4.6,
+        "remainingQuantity": 100,
+        "totalSold": 110,
+        "inStock": true,
+        "images": [
+            "https://images.meesho.com/images/products/227770998/emusf_512.webp",
+            "https://m.media-amazon.com/images/I/51t5WvPIagL._AC_UF1000,1000_QL80_.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fruits",
+            "papayas"
+        ],
+        "brand": "DivineElixirHarvest",
+        "weight": 8,
+        "features": [
+            "Exotic sweetness",
+            "Rich in nutrients",
+            "Perfect for a tropical delight"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CO002",
+        "name": "Malabar Ratan Coconut Seeds - Nariyal Swaad",
+        "description": "High-quality seeds for cultivating the delicious and versatile coconut.",
+        "type": "seed",
+        "price": 1349.50,
+        "originalPrice": 1899.50,
+        "rating": 4.8,
+        "remainingQuantity": 90,
+        "totalSold": 130,
+        "inStock": true,
+        "images": [
+            "https://rukminim1.flixcart.com/image/850/1000/l4ssfww0/plant-seed/o/6/g/1-east-cost-tall-d-t-dwarf-coconut-seedstore-original-imagfmcujrdgabfe.jpeg?q=90",
+            "https://c8.alamy.com/comp/CC897X/two-dried-coconuts-on-burlap-CC897X.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "nuts",
+            "coconuts"
+        ],
+        "brand": "SwaadHarvest",
+        "weight": 11,
+        "features": [
+            "Premium quality",
+            "Versatile uses",
+            "Rich in healthy fats"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CT002",
+        "name": "Gossypium Ratan Cotton Seeds - Shubh Uday",
+        "description": "High-quality seeds for cultivating superior-quality cotton fibers.",
+        "type": "seed",
+        "price": 849.25,
+        "originalPrice": 1199.25,
+        "rating": 4.4,
+        "remainingQuantity": 110,
+        "totalSold": 95,
+        "inStock": true,
+        "images": [
+            "https://m.media-amazon.com/images/I/61GtAzedncL._AC_UF1000,1000_QL80_.jpg",
+            "https://media.istockphoto.com/id/493189628/photo/cotton.jpg?s=612x612&w=0&k=20&c=Xn_qYBrZQDDpkSVZpFpu00Njfnq45Yat02eGS2TnZa8="
+        ],
+        "categories": [
+            "seeds",
+            "fibers",
+            "cotton"
+        ],
+        "brand": "ShubhUdayHarvest",
+        "weight": 14,
+        "features": [
+            "High-quality fibers",
+            "Ideal for textiles",
+            "Suitable for various climates"
+        ]
+    },
+    
+    
+    {
+        "productId": "PROD-JT002",
+        "name": "Sonar Rani Jute Seeds - Golden Fibers",
+        "description": "Exceptional seeds for cultivating strong and golden jute fibers.",
+        "type": "seed",
+        "price": 999.50,
+        "originalPrice": 1399.50,
+        "rating": 4.5,
+        "remainingQuantity": 105,
+        "totalSold": 100,
+        "inStock": true,
+        "images": [
+            "https://5.imimg.com/data5/SN/IA/MY-5480705/cluster-bean-28-ankur-rani-29-500x500.jpg",
+            "https://5.imimg.com/data5/SELLER/Default/2023/3/EZ/BC/DH/140470661/sunn-hemp-jute-seeds-.jpg"
+        ],
+        "categories": [
+            "seeds",
+            "fibers",
+            "jute"
+        ],
+        "brand": "GoldenFibersHarvest",
+        "weight": 16,
+        "features": [
+            "Durable fibers",
+            "Ideal for textiles and crafts",
+            "Sustainable cultivation"
+        ]
+    },
+    
+    {
+        "productId": "PROD-CF002",
+        "name": "Mysuru Shehzada Coffee Seeds - Aroma Majesty",
+        "description": "High-quality seeds for cultivating aromatic and rich coffee beans.",
+        "type": "seed",
+        "price": 1149.75,
+        "originalPrice": 1599.75,
+        "rating": 4.6,
+        "remainingQuantity": 98,
+        "totalSold": 105,
+        "inStock": true,
+        "images": [
+            "https://homeblendcoffee.com/cdn/shop/files/Roasted-Coffee-Beans-Mysore-Nuggets-Extra-Bold-Home-Blend-Coffee-Roasters.jpg?v=1689851409&width=1946",
+            "https://qph.cf2.quoracdn.net/main-qimg-8938ae75026001d57b906f9b07e08a2b.webp"
+        ],
+        "categories": [
+            "seeds",
+            "beverages",
+            "coffee"
+        ],
+        "brand": "AromaHarvest",
+        "weight": 6,
+        "features": [
+            "Premium quality beans",
+            "Rich flavor profile",
+            "Ideal for brewing"
+        ]
+    }
+    
+]

@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8da"
+  },
+  "name": "Kisan Arthik Sahayata Yojana",
+  "description": "Our company is dedicated to providing financial aid to farmers through the Kisan Arthik Sahayata Yojana, supporting the agricultural community in times of need.",
+  "image": "https://1000logos.net/wp-content/uploads/2022/06/Farmers-Insurance-Group-logo.png",
+  "openDate": "September 15, 2023",
+  "closeDate": "January 31, 2024",
+  "isOpen": true,
+  "eligibility": "Available for all farmers facing financial distress. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "across India",
+  "companyName": "AgriSupport India Pvt. Ltd.",
+  "approxAmountINR": 5000,
+  "approxAmountINRMax": 10000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8db"
+  },
+  "name": "Krishi Rin Mukti Yojana",
+  "description": "Introducing the Krishi Rin Mukti Yojana, our initiative to alleviate farmers from financial burdens by providing debt relief and assistance.",
+  "image": "https://www.logoground.com/uploads/201644362016-08-123477179farmer-01.jpg",
+  "openDate": "October 5, 2023",
+  "closeDate": "February 28, 2024",
+  "isOpen": true,
+  "eligibility": "Open to farmers with outstanding loans. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "pan-India",
+  "companyName": "DebtFree Agro Solutions Pvt. Ltd.",
+  "approxAmountINR": 10000,
+  "approxAmountINRMax": 15000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8dc"
+  },
+  "name": "Samriddhi Kisan Nidhi Yojana",
+  "description": "Our organization introduces the Samriddhi Kisan Nidhi Yojana, a financial assistance program aimed at promoting the prosperity of farmers across the nation.",
+  "image": "https://thedesignlove.com/wp-content/uploads/2020/11/591-Indian-Farmer-Start-up-Logo.jpg",
+  "openDate": "November 10, 2023",
+  "closeDate": "March 15, 2024",
+  "isOpen": true,
+  "eligibility": "Available for all farmers facing financial challenges. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "nationwide",
+  "companyName": "FarmProsper India Pvt. Ltd.",
+  "approxAmountINR": 8000,
+  "approxAmountINRMax": 10000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8dd"
+  },
+  "name": "Kisan Sahayata Suraksha Yojana",
+  "description": "In our commitment to the welfare of farmers, we present the Kisan Sahayata Suraksha Yojana, offering financial support and security to farmers in need.",
+  "image": "https://www.logodesign.net/images/home-industry/agriculture-logo-01.png",
+  "openDate": "December 5, 2023",
+  "closeDate": "April 30, 2024",
+  "isOpen": false,
+  "eligibility": "Available for all farmers facing financial hardships. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "across India",
+  "companyName": "AgroAid Solutions Pvt. Ltd.",
+  "approxAmountINR": 6000,
+  "approxAmountINRMax": 6500
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8de"
+  },
+  "name": "Kisan Rin Harek Suraksha Yojana",
+  "description": "The Kisan Rin Harek Suraksha Yojana is our initiative to provide financial aid and security to farmers facing challenges and debt.",
+  "image": "https://media.istockphoto.com/id/913593046/vector/tractor-vector-illustration.jpg?s=612x612&w=0&k=20&c=7rIcyCfyvR1s8zVuV4N_K6KLTbpjL4xZr5kKSDjStPo=",
+  "openDate": "January 15, 2024",
+  "closeDate": "May 31, 2024",
+  "isOpen": true,
+  "eligibility": "Open to farmers with outstanding loans and financial difficulties. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "pan-India",
+  "companyName": "GreenHarvest Financial Services Pvt. Ltd.",
+  "approxAmountINR": 12000,
+  "approxAmountINRMax": 20000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8df"
+  },
+  "name": "Kisan Kalyan Sahayata Yojana",
+  "description": "The Kisan Kalyan Sahayata Yojana is our commitment to the well-being of farmers, providing financial assistance to overcome challenges and promote prosperity.",
+  "image": "https://www.shutterstock.com/image-vector/support-your-local-farmer-circular-600nw-2191709689.jpg",
+  "openDate": "February 20, 2024",
+  "closeDate": "June 30, 2024",
+  "isOpen": false,
+  "eligibility": "Available for all farmers facing financial distress. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "nationwide",
+  "companyName": "FarmGuard Financials Pvt. Ltd.",
+  "approxAmountINR": 7000,
+  "approxAmountINRMax": 8000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e0"
+  },
+  "name": "Annapurna Kisan Rin Suraksha Yojana",
+  "description": "We introduce the Annapurna Kisan Rin Suraksha Yojana, our initiative to provide debt relief and financial security to farmers in need.",
+  "image": "https://cdn.logojoy.com/wp-content/uploads/2018/05/30104545/172.png",
+  "openDate": "March 10, 2024",
+  "closeDate": "July 31, 2024",
+  "isOpen": true,
+  "eligibility": "Open to farmers with outstanding loans and financial challenges. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "across India",
+  "companyName": "AgroProsper Financial Services Pvt. Ltd.",
+  "approxAmountINR": 9000,
+  "approxAmountINRMax": 18000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e1"
+  },
+  "name": "Kisan Suraksha Rin Yojana",
+  "description": "Our organization is proud to present the Kisan Suraksha Rin Yojana, offering financial security and debt relief to farmers facing challenges.",
+  "image": "https://thedesignlove.com/wp-content/uploads/2020/11/591-Indian-Farmer-Pre-Designed-Logo.jpg",
+  "openDate": "April 5, 2024",
+  "closeDate": "August 15, 2024",
+  "isOpen": true,
+  "eligibility": "Available for all farmers with outstanding loans and financial hardships. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "pan-India",
+  "companyName": "AgriGrowth Financial Solutions Pvt. Ltd.",
+  "approxAmountINR": 10000,
+  "approxAmountINRMax": 15000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e2"
+  },
+  "name": "Krishi Suraksha Sahayata Yojana",
+  "description": "Supporting the backbone of our nation, the Krishi Suraksha Sahayata Yojana aims to provide financial assistance to farmers facing challenges.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQuodACFOQX0NGH3X5_DublNITmZNNSOaaKA&usqp=CAU",
+  "openDate": "May 15, 2024",
+  "closeDate": "September 30, 2024",
+  "isOpen": false,
+  "eligibility": "Available for all farmers facing financial distress. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "nationwide",
+  "companyName": "FarmSustain Financial Services Pvt. Ltd.",
+  "approxAmountINR": 8000,
+  "approxAmountINRMax": 10000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e3"
+  },
+  "name": "Sahayata Kisan Suraksha Rin Yojana",
+  "description": "In our commitment to the agricultural community, we present the Sahayata Kisan Suraksha Rin Yojana, offering financial support, security, and debt relief to farmers in need.",
+  "image": "https://i0.wp.com/farmfinancedoctor.com/wp-content/uploads/2022/10/FARM-FINANCE-Animated-Logo-Website-Twitch-Logo.png?fit=800%2C800&ssl=1",
+  "openDate": "June 10, 2024",
+  "closeDate": "October 20, 2024",
+  "isOpen": true,
+  "eligibility": "Open to farmers with outstanding loans and financial challenges. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "across India",
+  "companyName": "AgroCare Financials Pvt. Ltd.",
+  "approxAmountINR": 7500,
+  "approxAmountINRMax": 11000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e4"
+  },
+  "name": "Krishi Kalyan Suraksha Rin Yojana",
+  "description": "The Krishi Kalyan Suraksha Rin Yojana is our initiative to provide financial aid, security, and debt relief to farmers facing challenges.",
+  "image": "https://www.farmerfinance.co.uk/wp-content/uploads/2023/07/cropped-farmer-finance-logo-white.png",
+  "openDate": "July 5, 2024",
+  "closeDate": "November 15, 2024",
+  "isOpen": true,
+  "eligibility": "Available for all farmers with outstanding loans and financial hardships. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "pan-India",
+  "companyName": "GreenHarvest Financial Solutions Pvt. Ltd.",
+  "approxAmountINR": 11000,
+  "approxAmountINRMax": 11500
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e5"
+  },
+  "name": "Kisan Arthik Sahayata Samriddhi Yojana",
+  "description": "The Kisan Arthik Sahayata Samriddhi Yojana is our commitment to the prosperity of farmers, providing financial aid and support in times of need.",
+  "image": "https://agriculturefirstblog.files.wordpress.com/2019/10/cropped-freelogo-1-1.jpeg",
+  "openDate": "August 10, 2024",
+  "closeDate": "December 31, 2024",
+  "isOpen": true,
+  "eligibility": "Open to all farmers facing financial distress. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "nationwide",
+  "companyName": "FarmProsper Financials Pvt. Ltd.",
+  "approxAmountINR": 9000,
+  "approxAmountINRMax": 18000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e6"
+  },
+  "name": "Kisan Rin Suraksha Samriddhi Yojana",
+  "description": "Our organization is proud to present the Kisan Rin Suraksha Samriddhi Yojana, offering financial security, debt relief, and prosperity to farmers facing challenges.",
+  "image": "https://uploads-ssl.webflow.com/5e5717f4fa858f1cafb8c9cc/5e59a0c0a67bd6d170e34c37_FarmFundrLogo-01.png",
+  "openDate": "September 5, 2024",
+  "closeDate": "January 20, 2025",
+  "isOpen": true,
+  "eligibility": "Available for all farmers with outstanding loans and financial hardships. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "across India",
+  "companyName": "AgriGrowth Financial Solutions Pvt. Ltd.",
+  "approxAmountINR": 10000,
+  "approxAmountINRMax": 15000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e7"
+  },
+  "name": "Annapurna Kisan Arthik Sahayata Yojana",
+  "description": "We introduce the Annapurna Kisan Arthik Sahayata Yojana, our initiative to provide financial aid and support to farmers facing challenges.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ8ea93zu6UOBbA7jQmLRe6PJl3ZFY0EtvCyyNRiPTQa-N3S3TdH7WF_kBtOrmlSCcgTw&usqp=CAU",
+  "openDate": "October 10, 2024",
+  "closeDate": "February 28, 2025",
+  "isOpen": false,
+  "eligibility": "Open to all farmers facing financial distress. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "pan-India",
+  "companyName": "AgroProsper Financials Pvt. Ltd.",
+  "approxAmountINR": 8000,
+  "approxAmountINRMax": 10000
+},
+{
+  "_id": {
+    "$oid": "658007fcecf9b8b717b6a8e8"
+  },
+  "name": "Kisan Suraksha Rin Samriddhi Yojana",
+  "description": "The Kisan Suraksha Rin Samriddhi Yojana is our commitment to ensuring the prosperity, security, and debt relief of farmers facing challenges.",
+  "image": "https://www.gaspdesigns.co.nz/images/PortfolioFarmland/FarmlandHeader.png",
+  "openDate": "November 15, 2024",
+  "closeDate": "March 15, 2025",
+  "isOpen": true,
+  "eligibility": "Available for all farmers with outstanding loans and financial hardships. No landholding restrictions. Aadhaar and a linked bank account are mandatory.",
+  "region": "nationwide",
+  "companyName": "FarmSustain Financial Services Pvt. Ltd.",
+  "approxAmountINR": 9500,
+  "approxAmountINRMax": 12500
+}]

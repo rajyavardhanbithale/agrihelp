@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39e6"
+  },
+  "name": "Pradhan Mantri Kisan Samman Nidhi.",
+  "description": "With a view to provide income support to all land holding eligible farmer families, the Government has launched PM-KISAN",
+  "image": "https://adda247-wp-multisite-assets.s3.ap-south-1.amazonaws.com/wp-content/uploads/multisite/sites/5/2023/07/12115846/933492-pm-kisan-samman-nidhi-schem-Copy.jpg",
+  "openDate": "July 27, 2023",
+  "closeDate": "November 15, 2023",
+  "isOpen": "FALSE",
+  "eligibility": "The Pradhan Mantri Kisan Samman Nidhi 2023 is open to all small and marginal farmers who own less than 2 hectares (4.9 acres) of land. To be eligible, farmers must have a valid Aadhaar number and bank account. They must also self-declare that they do not own more than 2 hectares of land.",
+  "region": "nationwide"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39e7"
+  },
+  "name": "Rashtriya Krishi Vikas Yojana",
+  "description": "A scheme aimed at promoting holistic development of agriculture by encouraging farmers to adopt innovative and modern farming practices.",
+  "image": "https://www.gstsuvidhakendra.org/hindi/wp-content/uploads/2022/01/%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF-%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF-%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A4%BE%E0%A4%B8-%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE.jpg",
+  "openDate": "August 5, 2023",
+  "closeDate": "December 30, 2023",
+  "isOpen": "TRUE",
+  "eligibility": "All farmers across the country are eligible. The scheme focuses on enhancing the productivity and income of farmers through various interventions.",
+  "region": "nationwide"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39e8"
+  },
+  "name": "Kisan Credit Card Yojana",
+  "description": "A financial inclusion scheme providing farmers with credit facilities to meet their agricultural expenses and improve their financial well-being.",
+  "image": "https://pmmodiyojana.in/wp-content/uploads/2022/09/image-53.png",
+  "openDate": "September 10, 2023",
+  "closeDate": "January 31, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Farmers with a landholding and a valid Aadhaar number can apply. The scheme offers flexible and affordable credit to meet farming needs.",
+  "region": "pan-India"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39e9"
+  },
+  "name": "Pradhan Mantri Fasal Bima Yojana",
+  "description": "A crop insurance scheme designed to mitigate the financial risks faced by farmers due to natural calamities, pests, and diseases.",
+  "image": "https://www.jagranimages.com/images/newimg/30072022/30_07_2022-pradhan_mantri_fasal_bima_yojana_22937828.jpg",
+  "openDate": "October 15, 2023",
+  "closeDate": "February 28, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Farmers growing notified crops are eligible. The scheme provides comprehensive coverage against yield and revenue losses.",
+  "region": "across states"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39ea"
+  },
+  "name": "Kisan Urja Suraksha evam Utthaan Mahabhiyan",
+  "description": "A scheme promoting the use of solar energy in agriculture to enhance irrigation facilities and reduce farmers' dependence on traditional power sources.",
+  "image": "https://media.licdn.com/dms/image/D4D12AQH3kZKWSP8Jog/article-cover_image-shrink_600_2000/0/1685115109855?e=2147483647&v=beta&t=ZZ38YjKrhAODOQsO80UHtgzwhEM9AEWeJlBaCtDYr30",
+  "openDate": "November 20, 2023",
+  "closeDate": "March 15, 2024",
+  "isOpen": "FALSE",
+  "eligibility": "Farmers interested in adopting solar-powered irrigation systems are eligible. The scheme encourages sustainable energy practices.",
+  "region": "all states"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39eb"
+  },
+  "name": "National Mission for Sustainable Agriculture",
+  "description": "A mission to promote sustainable agriculture practices and ensure the efficient use of resources for the long-term benefit of farmers and the environment.",
+  "image": "https://papertyari.com/wp-content/uploads/2021/05/National-Mission-For-Sustainable-Agriculture.jpg",
+  "openDate": "December 8, 2023",
+  "closeDate": "April 30, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Farmers adopting sustainable farming practices are eligible. The mission focuses on soil health, water use efficiency, and crop diversification.",
+  "region": "nationwide"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39ec"
+  },
+  "name": "Mukhyamantri Kisan Sathi Yojana",
+  "description": "A state-specific scheme aimed at providing comprehensive support to farmers in terms of financial assistance, training, and access to modern farming techniques.",
+  "image": "https://indiaenergyportal.org/wp-content/uploads/2023/02/Rajasthan-Mukhyamantri-Krishak-Sathi-Yojana.jpg",
+  "openDate": "January 15, 2024",
+  "closeDate": "May 31, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Farmers in the specific state are eligible. The scheme aims to uplift the agricultural community through various initiatives.",
+  "region": "state-specific"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39ed"
+  },
+  "name": "Gramin Bhandaran Yojana",
+  "description": "A scheme focused on creating modern storage infrastructure in rural areas to reduce post-harvest losses and improve farmers' income.",
+  "image": "https://aryandigital.in/wp-content/uploads/2023/06/Screenshot-2023-06-22-180001.jpg",
+  "openDate": "February 5, 2024",
+  "closeDate": "June 30, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Farmers and cooperatives in rural areas are eligible. The scheme promotes the construction of godowns and cold storage facilities.",
+  "region": "rural regions"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39ee"
+  },
+  "name": "Kisan Samman Nidhi - Organic Farming",
+  "description": "An extension of the PM-KISAN scheme, focusing on providing financial support to farmers practicing organic farming methods.",
+  "image": "https://wpassets.adda247.com/wp-content/uploads/multisite/sites/9/2023/07/12074745/pm-kisan-samman-nidhi-schem-Copy.jpg",
+  "openDate": "March 20, 2024",
+  "closeDate": "July 15, 2024",
+  "isOpen": "FALSE",
+  "eligibility": "Farmers engaged in organic farming practices are eligible. The scheme aims to promote environmentally friendly agricultural practices.",
+  "region": "nationwide"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39ef"
+  },
+  "name": "Krishi Aadarsh Gram Yojana",
+  "description": "A scheme focused on transforming selected villages into model agricultural communities by providing comprehensive support and infrastructure.",
+  "image": "https://hindi.newsclick.in/sites/default/files/styles/responsive_885/public/2022-06/pmagy.jpg?itok=giYiOEbB",
+  "openDate": "April 10, 2024",
+  "closeDate": "August 31, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Villages meeting specified criteria are eligible. The scheme aims to showcase and replicate successful agricultural models.",
+  "region": "selected villages"
+},
+{
+  "_id": {
+    "$oid": "657f549844b6cbb72e5c39f0"
+  },
+  "name": "Paramparagat Krishi Vikas Yojana",
+  "description": "A scheme promoting organic farming in clusters to improve soil health, reduce the use of chemical inputs, and enhance farmers' income.",
+  "image": "https://vishnuias.com/wp-content/uploads/2021/07/Paramparagat-Krishi-Vikas-Yojana.png",
+  "openDate": "May 15, 2024",
+  "closeDate": "September 30, 2024",
+  "isOpen": "TRUE",
+  "eligibility": "Farmers practicing organic farming in clusters are eligible. The scheme encourages the adoption of traditional and organic farming methods.",
+  "region": "clustered areas"
+}]

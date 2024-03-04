@@ -1,0 +1,7 @@
+import { NextApiResponse, NextApiRequest } from 'next';
+import handler from 'path-to-your-handler-file'; // Adjust the path accordingly
+
+export default async (req: NextApiRequest, res: NextApiResponse) => {
+  // Handle GET and POST requests here
+  await handler(req, res);
+};

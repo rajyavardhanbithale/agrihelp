@@ -1,0 +1,29 @@
+[
+  {
+    "name": "MetroMover Couriers",
+    "freeCost": 200,
+    "freeDelivery": "3-4",
+    "isExpress": true,
+    "expressDelivery": "1-2",
+    "expressCost": 50,
+    "codOption": true
+  },
+  {
+    "name": "SwiftConnect Logistics",
+    "freeCost": 200,
+    "freeDelivery": "3-4",
+    "isExpress": true,
+    "expressDelivery": "1-2",
+    "expressCost": 50,
+    "codOption": true
+  },
+  {
+    "name": "RapidParcel Express",
+    "freeCost": 200,
+    "freeDelivery": "3-4",
+    "isExpress": true,
+    "expressDelivery": "1-2",
+    "expressCost": 50,
+    "codOption": true
+  }
+]

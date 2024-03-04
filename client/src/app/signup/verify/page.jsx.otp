@@ -1,0 +1,196 @@
+'use client'
+import Cookies from "js-cookie";
+import CryptoJS from "crypto-js";
+import { useState, useRef } from "react";
+import axios from "axios";
+
+import { syncOutline } from 'ionicons/icons';
+import { IonIcon } from "@ionic/react";
+
+import '../../App.css'
+
+export default function Verify() {
+  const [getCookie, setGetCookie] = useState(null);
+  const [isVerified, setIsVerified] = useState(false)
+
+
+  const [isError, setError] = useState("")
+  const [verificationCode, setVerificationCode] = useState(Array(4).fill(""));
+  const inputs = Array.from({ length: 4 }, (_, index) => useRef(null));
+
+  const encryptedCookie = Cookies.get("user");
+  const secretKey = "rar";
+
+  const checkCookie = async () =>{
+    if (encryptedCookie) {
+      const decryptedData = CryptoJS.AES.decrypt(
+        encryptedCookie,
+        secretKey
+      ).toString(CryptoJS.enc.Utf8);
+
+      if (decryptedData) {
+        const cookieObj = JSON.parse(decryptedData);
+        setGetCookie(cookieObj);
+      } else {
+        console.error("Failed to decrypt the cookie.");
+      }
+    } else {
+      setError("Session Expired. Recreate your account. Redirecting in 5 seconds.")
+    }
+  }
+
+  // useEffect(() => {
+  //   checkCookie()
+  // }, []);
+
+  const obSecure = (unSafeMail) => {
+    if (unSafeMail) {
+      const [name, domain] = unSafeMail.split("@");
+      return `${name[0]}${name[1]}${name[2]}${name[3]}${new Array(
+        name.length - 4
+      ).join("*")}@${domain}`;
+    }
+  };
+
+  const handleInput = (index, value) => {
+    const newVerificationCode = [...verificationCode];
+    newVerificationCode[index] = value;
+    setVerificationCode(newVerificationCode);
+    if (value.length === 1 && index < inputs.length - 1) {
+      inputs[index + 1].current.focus();
+    }
+  };
+
+  const handleVerify = async () => {
+
+
+    console.log(await checkCookie());
+    if (verificationCode.join("").length !== 4) {
+      // setError("Invalid OTP");
+      return;
+    }
+
+    setIsVerified(true)
+    const constructData = {
+      "username": getCookie?.usernameTemp,
+      "password": getCookie?.passwordTemp,
+      "otp": verificationCode.join("")
+    }
+
+    try {
+      const response = await axios.post("http://127.0.0.1:8000/otp/verify", constructData)
+      console.log(response);
+      if (response.status === 200) {
+        setError("")
+        const setNewCookie = {
+          "username": getCookie?.usernameTemp,
+          "email": getCookie?.emailTemp,
+          "password": getCookie?.passwordTemp,
+          "validationKey": "token"
+
+        }
+        console.log(setNewCookie);
+        const enc = CryptoJS.AES.encrypt(JSON.stringify(setNewCookie), secretKey).toString()
+        Cookies.set("user", enc, { expires: 5 })
+        window.location.href = "/"
+      }
+    } catch (error) {
+      const check = Cookies.get("user")
+
+      if (check === undefined) {
+        setError(`Session Expired. Recreate your account. Redirecting to home.`)
+
+        setTimeout(() => {
+          window.location.href = "/";
+        }, 3000);
+
+
+      } else { setError("Invalid OTP") }
+
+
+      setIsVerified(false)
+    }
+
+
+  };
+
+  return (
+    <>
+      <div className="relative flex min-h-screen flex-col justify-center overflow-hidden py-12">
+        <div className="relative bg-slate-800 px-6 pt-10 pb-9 shadow-xl mx-auto w-full max-w-lg rounded-2xl">
+          <div className="mx-auto flex w-full max-w-md flex-col space-y-16">
+            <div className="flex flex-col items-center justify-center text-center space-y-2">
+              <div className="font-semibold text-3xl text-gray-50">
+                <p>Email Verification</p>
+              </div>
+              <div className="flex flex-row text-sm font-medium text-gray-400">
+                <p>
+                  We have sent a code to your email{" "}
+                  {obSecure(getCookie?.emailTemp)}{" "}
+                </p>
+              </div>
+            </div>
+
+            <div>
+              <form action="" method="post">
+                <div className="flex flex-col space-y-16">
+                  <div className="flex flex-row items-center justify-between mx-auto w-full max-w-xs">
+                    {inputs.map((ref, index) => (
+                      <div key={index} className="w-16 h-16 ">
+                        <input
+                          ref={ref}
+                          className="w-full h-full flex flex-col items-center justify-center text-center px-5 outline-none rounded-xl border border-gray-600 text-lg bg-slate-900/50 focus:ring-1 ring-blue-700 text-white"
+                          type="text"
+                          name=""
+                          id={`input-${index}`}
+                          maxLength="1"
+                          onChange={(e) => {
+                            handleInput(index, e.target.value);
+                          }}
+                        />
+                      </div>
+                    ))}
+                  </div>
+
+                  <div className="flex flex-col space-y-5 items-center ">
+                    <div className="flex w-3/4 justify-center space-y-3 text-gray-50 text-center ">
+                      {isError && isError ? <span>{isError}</span> : "Hmm.. OTP"}
+                    </div>
+
+                    <button
+                      type="button"
+                      className="flex flex-row items-center justify-center text-center w-full border rounded-xl outline-none py-5 bg-blue-700 border-none text-white text-sm shadow-sm"
+                      onClick={handleVerify}
+                    >
+                      {!isVerified ?
+                        <span>Verify Me !!</span>
+                        :
+                        <IonIcon
+                          icon={syncOutline}
+                          className="text-gray-900 animate-spin	duration-200"
+                        />
+                      }
+                    </button>
+
+
+                    <div className="flex flex-row items-center justify-center text-center text-sm font-medium space-x-1 text-gray-500">
+                      <p>Didn't receive the code?</p>{" "}
+                      <a
+                        className="flex flex-row items-center text-blue-600"
+                        href="http://"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        Resend
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
+  )
+}

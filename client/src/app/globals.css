@@ -1,0 +1,190 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+} */
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  /* outline: red solid 1px; */
+  /* scroll-behavior: smooth; */
+}
+
+
+/* /* body { */
+/* font-family: var(--font-poppins); */
+
+/* background: #181c25; */
+/* background: radial-gradient(circle, rgba(24, 28, 37, 1) 0%, rgba(28, 32, 43, 1) 100%); */
+
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+
+
+.slick-dots1 {
+  position: absolute;
+  bottom: -50px;
+
+  display: block;
+
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+  list-style: none;
+
+  text-align: center;
+}
+
+.slick-dots1 li {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 50px;
+  margin: -25px 5px;
+  padding: 0;
+  cursor: pointer;
+  object-fit: contain;
+}
+
+.slick-dots1 li img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+
+@keyframes shake {
+  0% {
+    transform: translateX(0) rotate(0) scale(1);
+  }
+
+  25% {
+    transform: translateX(-5px) rotate(-45deg) scale(1.2);
+  }
+
+  50% {
+    transform: translateX(5px) rotate(45deg) scale(1.2);
+  }
+
+  75% {
+    transform: translateX(-5px) rotate(-45deg) scale(1.2);
+  }
+
+  100% {
+    transform: translateX(0) rotate(0) scale(1);
+  }
+}
+
+.shake-once {
+  animation: shake 2s ease-in-out;
+  /* Adjust the duration as needed */
+  animation-iteration-count: 1;
+  /* Set to 1 for only one iteration */
+}
+
+.indexedStep {
+  color: white;
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  background-color: rgba(211, 211, 211, 0.8);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.indexedStep.accomplished {
+  background-color: rgba(0, 116, 217, 1);
+}
+
+.swipe-container {
+  overflow-x: auto;
+  display: flex;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  /* Enable momentum scrolling on iOS devices */
+}
+
+.swipe-item {
+  flex: 0 0 auto;
+  scroll-snap-align: start;
+  padding: 0 8px;
+  /* Adjust padding as needed */
+}
+
+
+
+.main-logo-page {
+  background: rgba( 55, 65, 81, 0.45 );
+  box-shadow: 0 4px 16px 0 rgba(55, 65, 81, 0.6);
+  backdrop-filter: blur( 10.5px );
+  -webkit-backdrop-filter: blur( 10.5px );
+  border-radius: 16px;
+
+}

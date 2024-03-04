@@ -1,0 +1,11 @@
+uvicorn 
+gunicorn 
+fastapi 
+pymongo 
+scikit-learn 
+cryptography 
+python-dotenv 
+pydantic 
+numpy 
+torchvision 
+panda  

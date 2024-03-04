@@ -1,0 +1,91 @@
+'use client'
+import React, { useState } from 'react';
+import axios from 'axios';
+
+const ConversationComponent = () => {
+  const [inputValue, setInputValue] = useState('');
+  const [conversation, setConversation] = useState([]);
+  const [responseText, setResponseText] = useState('');
+
+  const apiUrl = 'http://127.0.0.1:5173/backend-api/v2/conversation';
+
+  const headers = {
+    'accept': 'text/event-stream',
+    'accept-language': 'en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,nl;q=0.6,hi;q=0.5',
+    'content-type': 'application/json',
+    'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Linux"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin',
+  };
+
+  const handleInputChange = (e) => {
+    setInputValue(e.target.value);
+  };
+
+  const handleButtonClick = async () => {
+    const userMessage = { role: 'user', content: inputValue };
+  
+    const payload = {
+      conversation_id: '370a62fa-29d6-9e5d-de0b-18c76b7aedf',
+      action: '_ask',
+      model: 'gpt-3.5-turbo-16k-0613',
+      jailbreak: 'default',
+      provider: '',
+      meta: {
+        id: '7313465642727802432',
+        content: {
+          conversation: [...conversation, userMessage],
+          internet_access: false,
+          content_type: 'text',
+          parts: [...conversation, userMessage],
+        },
+      },
+    };
+  
+    try {
+      const response = await axios.post(apiUrl, JSON.stringify(payload), { headers, validateStatus: false });
+  
+      setResponseText(repr(response.data));
+  
+      const assistantMessage = { role: 'assistant', content: repr(response.data) };
+  
+      setConversation([...conversation, userMessage, assistantMessage]);
+    } catch (error) {
+      console.error('Error making API request:', error);
+    }
+  };
+
+  return (
+    <div className="container mx-auto p-4 mt-40">
+    <input
+      type="text"
+      value={inputValue}
+      onChange={handleInputChange}
+      className="border p-2 mr-2"
+    />
+    <button
+      onClick={handleButtonClick}
+      className="bg-blue-500 text-white p-2 rounded"
+    >
+      Send
+    </button>
+    <div className="mt-4">
+      <strong>Conversation:</strong>
+      <ul className="list-disc pl-4">
+        {conversation.map((message, index) => (
+          <li key={index} className="mb-2">{message.role}: {message.content}</li>
+        ))}
+      </ul>
+    </div>
+    <div className="mt-4">
+      <strong>Response:</strong>
+      <p className="bg-gray-200 p-2 rounded">{responseText}</p>
+    </div>
+  </div>
+  );
+};
+
+export default ConversationComponent;

@@ -1,0 +1,1207 @@
+[{
+    "productId": "PROD-FERT001",
+    "name": "Organic Farm Bliss Fertilizer",
+    "description": "A specially crafted organic fertilizer for promoting healthy and abundant crop yields in Indian farmlands.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 200,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/10/356411635/TB/CU/TL/11804202/organic-fertilizer-500x500.webp",
+        "https://5.imimg.com/data5/SELLER/Default/2020/12/BI/BV/VD/4148413/grow-agro-organic-fertilizer-500x500.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "Green Harvest",
+    "weight": 5,
+    "features": [
+        "100% Organic",
+        "Enhances soil fertility",
+        "Tailored for Indian crops",
+        "Slow-release nutrients"
+    ]
+},
+
+{
+    "productId": "PROD-FERT002",
+    "name": "AyurGrow Natural Fertilizer",
+    "description": "An Ayurvedic-inspired natural fertilizer for optimal growth of Indian crops, promoting health and vitality.",
+    "type": "fertilizer",
+    "price": 599.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://farmerspride.in/wp-content/uploads/2022/08/Organic-Fertilizer.jpeg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/1/HP/WD/VZ/103282088/20kg-100-pure-organic-vermicompost-fertilizer-500x500.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "natural",
+        "Indian POV"
+    ],
+    "brand": "Nature's Bounty",
+    "weight": 5.5,
+    "features": [
+        "Ayurvedic formula",
+        "Rich in essential nutrients",
+        "Promotes plant immunity",
+        "Suitable for diverse Indian crops"
+    ]
+},
+
+  {
+    "productId": "PROD-FERT003",
+    "name": "FarmVital Organic Mix",
+    "description": "A blend of premium organic elements, carefully formulated for Indian farms to enhance soil fertility and crop yield.",
+    "type": "fertilizer",
+    "price": 459.99,
+    "originalPrice": 749.99,
+    "rating": 4.3,
+    "remainingQuantity": 220,
+    "totalSold": 120,
+    "inStock": true,
+    "images": [
+        "https://tiimg.tistatic.com/fp/1/007/696/100-soluble-and-50-amino-acid-contains-liquid-fertilizer-in-packets-623.jpg",
+        "https://img3.exportersindia.com/product_images/bc-full/2022/9/10834579/npk-12-61-00-water-soluble-fertilizer-1664513676-6564164.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "natural",
+        "Indian POV"
+    ],
+    "brand": "Nature's Bounty",
+    "weight": 5.5,
+    "features": [
+        "Ayurvedic formula",
+        "Rich in essential nutrients",
+        "Promotes plant immunity",
+        "Suitable for diverse Indian crops"
+    ]
+},
+
+  {
+    "productId": "PROD-FERT004",
+    "name": "GreenFields Vermicompost",
+    "description": "High-quality vermicompost enriched with Indian earthworms, ideal for nourishing the soil and promoting sustainable agriculture.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 130,
+    "inStock": true,
+    "images": [
+        "https://ariesagro.com/wp-content/uploads/2023/04/Fertimax-HD-11-52-00.png",
+        "https://www.resetagri.in/cdn/shop/products/41S2Zro1CCL.jpg?v=1675166834"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "EarthWise",
+    "weight": 6,
+    "features": [
+        "Premium vermicompost",
+        "Enriched with Indian earthworms",
+        "Promotes soil aeration",
+        "Sustainable agriculture"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT005",
+    "name": "HerbalHarvest NutriBoost",
+    "description": "An herbal-infused fertilizer designed for Indian crops, providing essential nutrients for robust growth and increased yield.",
+    "type": "fertilizer",
+    "price": 479.99,
+    "originalPrice": 799.99,
+    "rating": 4.4,
+    "remainingQuantity": 200,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/ZL/QT/MO/ANDROID-97182784/product-jpeg-500x500.JPG",
+        "https://www.pngitem.com/pimgs/m/420-4204483_katek-organic-super-growth-fertilizer-3kg-bucket-bee.png"
+    ],
+    "categories": [
+        "fertilizer",
+        "herbal",
+        "Indian POV"
+    ],
+    "brand": "GreenHerb",
+    "weight": 5.5,
+    "features": [
+        "Infused with herbal extracts",
+        "Boosts plant immunity",
+        "Tailored for Indian climate",
+        "Promotes nutrient absorption"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT006",
+    "name": "AgroRich Organic Blend",
+    "description": "A meticulously crafted organic blend to rejuvenate Indian soils, ensuring healthy and sustainable crop cultivation.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 849.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 125,
+    "inStock": true,
+    "images": [
+        "https://image.made-in-china.com/201f0j00rCAGzTLgIHcE/Seaweed-Extract-Organic-Liquid-Foliar-Fertilizer.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-iCGTKQZGT8Yq79-7k-LIpDJEdagPxef4h5yKZP8IKEcJ6agcheeJ_K1o5BcKEp7xWEs&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "AgroVibe",
+    "weight": 6,
+    "features": [
+        "Premium organic blend",
+        "Enhances soil fertility",
+        "Sustainable agriculture",
+        "Tailored for Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT007",
+    "name": "BioGrowth Power Pellets",
+    "description": "Power-packed pellets enriched with Indian bioactive agents, fostering rapid growth and resilience in crops.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 949.99,
+    "rating": 4.8,
+    "remainingQuantity": 170,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://www.indianpotash.org/images/mop.jpg?1699315200014",
+        "https://www.indianpotash.org/images/prod5.jpg?1699315200015"
+    ],
+    "categories": [
+        "fertilizer",
+        "bioactive",
+        "Indian POV"
+    ],
+    "brand": "BioBoost",
+    "weight": 5.8,
+    "features": [
+        "Bioactive pellet technology",
+        "Rapid crop growth",
+        "Enhanced nutrient absorption",
+        "Tailored for Indian soil"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT008",
+    "name": "TerraRoots AyurBlend",
+    "description": "An Ayurvedic blend of natural elements promoting soil health and elevating crop yield, inspired by traditional Indian practices.",
+    "type": "fertilizer",
+    "price": 509.99,
+    "originalPrice": 829.99,
+    "rating": 4.6,
+    "remainingQuantity": 210,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQcGU8Al5NfnJdE3vbPHDTHw1EMdS73yw4Q&usqp=CAU",
+        "https://images.meesho.com/images/products/75308547/sm4oa_512.webp"
+    ],
+    "categories": [
+        "fertilizer",
+        "Ayurvedic",
+        "Indian POV"
+    ],
+    "brand": "TerraWise",
+    "weight": 5.3,
+    "features": [
+        "Ayurvedic formulation",
+        "Balances soil pH",
+        "Promotes root development",
+        "Sustainable farming"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT009",
+    "name": "GoldenHarvest MicroBoost",
+    "description": "A micronutrient-rich fertilizer designed for Indian crops, ensuring optimal nutrition and enhanced plant vitality.",
+    "type": "fertilizer",
+    "price": 469.99,
+    "originalPrice": 769.99,
+    "rating": 4.4,
+    "remainingQuantity": 195,
+    "totalSold": 135,
+    "inStock": true,
+    "images": [
+        "https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/Medium/bio-tech-grade-powder-sun-rubber-organic-fertilizer-fo20231116094436.png",
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/328958283/AU/RL/SY/122345014/8-4-500x500.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "micronutrient",
+        "Indian POV"
+    ],
+    "brand": "AgroGold",
+    "weight": 5.2,
+    "features": [
+        "High micronutrient content",
+        "Boosts plant metabolism",
+        "Tailored for Indian soil",
+        "Increases crop resilience"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT010",
+    "name": "Organic Essence Miracle Mix",
+    "description": "A miraculous organic mix promoting soil fertility and sustainable agriculture in the diverse landscapes of India.",
+    "type": "fertilizer",
+    "price": 539.99,
+    "originalPrice": 879.99,
+    "rating": 4.7,
+    "remainingQuantity": 185,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/12/ES/TU/CY/29169914/neem-fertilizer.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDiwrgjhQV2tYNsasKkGQ3U6HVlVzN1OORoMDul_Tbo6362GFIp7DJn3pbt7-o6CKVOMQ&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "EcoHarvest",
+    "weight": 5.6,
+    "features": [
+        "Miracle organic blend",
+        "Enhances microbial activity",
+        "Promotes sustainable farming",
+        "Adaptable to various Indian crops"
+    ]
+},
+
+  {
+    "productId": "PROD-FERT011",
+    "name": "GreenGroove EcoBoost",
+    "description": "A sustainable eco-boost fertilizer crafted for Indian agriculture, promoting eco-friendly farming practices and increased yields.",
+    "type": "fertilizer",
+    "price": 559.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 175,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/4/298321860/RZ/WY/NS/3508748/whatsapp-image-2023-04-06-at-10-27-00-am-14--500x500.jpeg",
+        "https://5.imimg.com/data5/BU/UW/MY-9013318/smart-phose-organic-fertilizers-500x500.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "sustainable",
+        "Indian POV"
+    ],
+    "brand": "EcoGro",
+    "weight": 5.7,
+    "features": [
+        "Sustainable farming",
+        "Eco-friendly composition",
+        "Promotes water conservation",
+        "Tailored for Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT012",
+    "name": "HeritageHarvest Traditional Mix",
+    "description": "A fertilizer inspired by traditional Indian farming methods, enriching the soil with heritage ingredients for timeless crop cultivation.",
+    "type": "fertilizer",
+    "price": 489.99,
+    "originalPrice": 799.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/5/QU/JP/ZS/45561115/yhyhy-500x500.jpg",
+        "https://cpimg.tistatic.com/06327924/b/4/Subriddhi-Neem-Organic-Fertilizer.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "traditional",
+        "Indian POV"
+    ],
+    "brand": "HeritageGrow",
+    "weight": 5.4,
+    "features": [
+        "Traditional farming blend",
+        "Rich in heritage ingredients",
+        "Promotes crop diversity",
+        "Adaptable to Indian climate"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT013",
+    "name": "AgriTech SmartGrow Formula",
+    "description": "An intelligent fertilizer using cutting-edge technology for precision farming, ensuring optimal growth for Indian crops.",
+    "type": "fertilizer",
+    "price": 609.99,
+    "originalPrice": 999.99,
+    "rating": 4.8,
+    "remainingQuantity": 160,
+    "totalSold": 170,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/10/356411635/TB/CU/TL/11804202/organic-fertilizer-500x500.webp",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/AS/OJ/YD/27084808/fertilizer-500x500.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "smart",
+        "Indian POV"
+    ],
+    "brand": "TechHarvest",
+    "weight": 5.9,
+    "features": [
+        "Smart farming technology",
+        "Precision nutrient delivery",
+        "IoT-enabled monitoring",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT014",
+    "name": "BioNourish GreenGuard",
+    "description": "A bio-nourishing fertilizer with a green shield, protecting Indian crops from environmental stress and ensuring sustained growth.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 869.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/9/347896633/HP/IG/XR/4785906/organic-granular-fertilizer-500x500.png",
+        "https://sikrifarms.com/pub/media/catalog/product/cache/a449a70becc9467bda3937d4c9ad4f06/5/0/50-kg-bag-fromt-600-x-609.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "bio-nourish",
+        "Indian POV"
+    ],
+    "brand": "BioShield",
+    "weight": 5.5,
+    "features": [
+        "Bio-nourishing technology",
+        "Green shield protection",
+        "Resilience against stress",
+        "Tailored for Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT015",
+    "name": "AquaGrowth HydroBlend",
+    "description": "Hydroponic-friendly fertilizer blend designed for Indian hydroponic farming, ensuring nutrient-rich solutions for optimal plant growth.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 939.99,
+    "rating": 4.6,
+    "remainingQuantity": 170,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/6/320905535/YQ/UB/VI/189534960/1-kg-organic-fertilizers-manure.jpeg",
+        "https://farmerspride.in/wp-content/uploads/2022/08/Organic-Fertilizer.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "hydroponic",
+        "Indian POV"
+    ],
+    "brand": "AquaGrow",
+    "weight": 5.6,
+    "features": [
+        "Hydroponic-friendly formula",
+        "Optimized nutrient solutions",
+        "Promotes root development",
+        "Tailored for Indian hydroponics"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT016",
+    "name": "EverGreen NeemGuard",
+    "description": "Neem-infused fertilizer providing natural pest protection for Indian crops, ensuring growth without compromising on sustainability.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 819.99,
+    "rating": 4.5,
+    "remainingQuantity": 185,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/6/319527430/AG/HF/ZU/4401531/rich-fertilizer-organic-fertilizer.png",
+        "https://www.google.com/search?q=fertilizer+packets+hd+images&tbm=isch&hl=en-GB&chips=q:fertilizer+packets+hd+images,online_chips:organic+fertilizers:LPq3jj5Leaw%3D&client=opera-gx&hs=stk&sa=X&ved=2ahUKEwjwxZuf64mDAxW09qACHaHpAbcQ4VYoAHoECAEQMw&biw=712&bih=738#imgrc=a4qt9-QTtPiXlM"
+    ],
+    "categories": [
+        "fertilizer",
+        "neem",
+        "Indian POV"
+    ],
+    "brand": "GreenGuardian",
+    "weight": 5.3,
+    "features": [
+        "Neem-infused protection",
+        "Natural pest repellent",
+        "Sustainable crop cultivation",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT017",
+    "name": "BioHarvest Fisherman's Blend",
+    "description": "An organic fertilizer enriched with fish emulsion, bringing the richness of the sea to Indian farmlands for enhanced plant nutrition.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/ANDROID/Default/2022/12/MR/CK/FV/26431983/product-jpeg-500x500.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2022/7/NZ/OO/AH/92237930/--500x500.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "SeaHarvest",
+    "weight": 5.5,
+    "features": [
+        "Organic fish emulsion",
+        "Sea-enriched nutrients",
+        "Promotes lush plant growth",
+        "Tailored for Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT018",
+    "name": "GreenGuard Rainforest Blend",
+    "description": "A rainforest-inspired fertilizer blend for Indian agriculture, promoting biodiversity and sustainability in farming practices.",
+    "type": "fertilizer",
+    "price": 569.99,
+    "originalPrice": 929.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ZQDYGchUwF8zfYAcyEF6XsHAU2iEVxYtzA&usqp=CAU",
+        "https://5.imimg.com/data5/SELLER/Default/2023/1/XU/TX/DR/103282088/15kg-organic-vermicompost-fertilizer-500x500.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "sustainable",
+        "Indian POV"
+    ],
+    "brand": "RainHarvest",
+    "weight": 5.7,
+    "features": [
+        "Rainforest-inspired blend",
+        "Biodiversity promotion",
+        "Sustainable farming",
+        "Adaptable to Indian climate"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT019",
+    "name": "AgriBoost SolarBlend",
+    "description": "Solar-powered fertilizer designed for Indian farms, harnessing the power of the sun to enhance nutrient availability and crop growth.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.8,
+    "remainingQuantity": 165,
+    "totalSold": 135,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZtPxVViHPRVQ7rW9Ta9Jc_QG8HpSPwvhyw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwKqtJ-Ue-ujOw2-k4_9J08AsHiKT5DRzARw&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "solar",
+        "Indian POV"
+    ],
+    "brand": "SolarAgro",
+    "weight": 5.8,
+    "features": [
+        "Solar-powered nutrient release",
+        "Energy-efficient farming",
+        "Optimized nutrient absorption",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT020",
+    "name": "EcoHarvest Rainwater Mix",
+    "description": "Rainwater-harvested fertilizer blend for Indian farms, utilizing eco-friendly practices to conserve water and nurture crops sustainably.",
+    "type": "fertilizer",
+    "price": 519.99,
+    "originalPrice": 849.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://cpimg.tistatic.com/08338104/b/5/Mahashakti-Organic-Fertilizers.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZuZEcBay1-fy3zUDHtZoDVwlQs49JnAD4RA&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "eco-friendly",
+        "Indian POV"
+    ],
+    "brand": "EcoRain",
+    "weight": 5.4,
+    "features": [
+        "Rainwater-harvested nutrients",
+        "Water conservation",
+        "Promotes sustainable farming",
+        "Adaptable to Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT021",
+    "name": "AyurTech BioActive Mix",
+    "description": "Advanced bioactive fertilizer infused with Ayurvedic elements, providing holistic nourishment for Indian crops.",
+    "type": "fertilizer",
+    "price": 559.99,
+    "originalPrice": 909.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://agribegri.com/productimage/620fa82e3914a06fc26e303ce81916be-08-16-23-19-06-39.jpg",
+        "https://static.wixstatic.com/media/4d11a1_c7567fd62e6341079f76923773390c7a~mv2.jpg/v1/fill/w_520,h_520,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d11a1_c7567fd62e6341079f76923773390c7a~mv2.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "Ayurvedic",
+        "Indian POV"
+    ],
+    "brand": "AyurTech",
+    "weight": 5.6,
+    "features": [
+        "Advanced bioactive formula",
+        "Ayurvedic-infused nutrients",
+        "Holistic crop nourishment",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT022",
+    "name": "OrganicRoots AgroBlend",
+    "description": "An organic blend enriched with traditional Indian root extracts, fostering deep root development for resilient and healthy crops.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 869.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/9/JH/UQ/PV/41709153/amino-based-nourish-500x500.png",
+        "https://5.imimg.com/data5/SELLER/Default/2022/4/ZW/EK/PA/34115278/npk-water-soluble-fertilizer-500x500.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "organic",
+        "Indian POV"
+    ],
+    "brand": "RootHarvest",
+    "weight": 5.5,
+    "features": [
+        "Enriched with root extracts",
+        "Deep root development",
+        "Promotes plant resilience",
+        "Tailored for Indian soil"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT023",
+    "name": "AgroVeda Herbal Elixir",
+    "description": "A herbal elixir fertilizer inspired by ancient Indian agricultural wisdom, promoting natural growth and vitality in crops.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 185,
+    "totalSold": 160,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8QD7jXCf_Wgnbe9bRsgjdguP0Z3L2_MHqw&usqp=CAU",
+        "https://5.imimg.com/data5/SELLER/Default/2020/12/MF/FH/VH/61864025/suryaphool-zincated-2-500x500.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "herbal",
+        "Indian POV"
+    ],
+    "brand": "VedaGrow",
+    "weight": 5.4,
+    "features": [
+        "Herbal elixir formulation",
+        "Ancient agricultural wisdom",
+        "Promotes natural vitality",
+        "Tailored for Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT024",
+    "name": "TechAgro SmartRelease",
+    "description": "Smart-release fertilizer leveraging technology for controlled nutrient delivery, ensuring optimal plant nourishment in Indian farms.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 939.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://ariesagro.com/wp-content/uploads/2022/11/Chelamin-Gold.png",
+        "https://www.agritell.com/cdn/shop/products/Untitled_52610b5b-e7fa-408c-be6a-1b97fb16ef8d.jpg?v=1642339551"
+    ],
+    "categories": [
+        "fertilizer",
+        "smart",
+        "Indian POV"
+    ],
+    "brand": "SmartAgriTech",
+    "weight": 5.6,
+    "features": [
+        "Smart-release technology",
+        "Precision nutrient delivery",
+        "Optimized for Indian crops",
+        "Enhanced nutrient absorption"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT025",
+    "name": "GreenGro Heritage Mix",
+    "description": "A heritage-inspired fertilizer mix combining ancient farming practices for sustainable crop growth in diverse Indian climates.",
+    "type": "fertilizer",
+    "price": 509.99,
+    "originalPrice": 829.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://www.ghaggarbiotech.com/admin/assets/images/products/1628146270-ORganic-Manure.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZaMReiSDoXoxsFLqQZAXrg6k-5zk2Jug4Tg&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "heritage",
+        "Indian POV"
+    ],
+    "brand": "HeritageGrow",
+    "weight": 5.3,
+    "features": [
+        "Heritage-inspired blend",
+        "Sustainable farming practices",
+        "Adaptable to diverse Indian climates",
+        "Promotes soil fertility"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT026",
+    "name": "NatureGuard Rainwater Boost",
+    "description": "Rainwater-boosted fertilizer promoting water conservation and nutrient-rich growth for Indian crops, following eco-friendly principles.",
+    "type": "fertilizer",
+    "price": 559.99,
+    "originalPrice": 909.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/6/320613440/CX/KW/LI/107596964/fertilizer-500x500.png",
+        "https://5.imimg.com/data5/KQ/IK/MY-998144/npk-fertilizer-20-20-00-500x500.png"
+    ],
+    "categories": [
+        "fertilizer",
+        "eco-friendly",
+        "Indian POV"
+    ],
+    "brand": "NatureBoost",
+    "weight": 5.5,
+    "features": [
+        "Rainwater-boosted nutrients",
+        "Water conservation",
+        "Eco-friendly farming",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT027",
+    "name": "VibrantFields ColorBlend",
+    "description": "Colorful nutrient blend enhancing plant vibrancy and aesthetics in Indian fields, promoting not just growth but visual appeal too.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 949.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2021/9/DJ/PF/TR/37951367/icl-fertilizers-500x500.jpeg",
+        "https://5.imimg.com/data5/OE/ST/MY-998144/chemical-npk-fertilizer-500x500.png"
+    ],
+    "categories": [
+        "fertilizer",
+        "aesthetic",
+        "Indian POV"
+    ],
+    "brand": "ColorHarvest",
+    "weight": 5.6,
+    "features": [
+        "Vibrant nutrient blend",
+        "Enhances plant aesthetics",
+        "Tailored for Indian crops",
+        "Promotes overall field vibrancy"
+    ]
+},
+ 
+  {
+    "productId": "PROD-FERT028",
+    "name": "BioSustain GreenGuard",
+    "description": "Bio-sustainable fertilizer with a green shield for Indian crops, ensuring both growth and environmental protection.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.6,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2022/1/HD/ON/MT/145400703/urea-n46.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw9WiUlA4h1iU-GVznKTDVmOclvaS-RNuAQEBXJK58_s8PoyrDt0z7DSSBhLP4t3iCLCI&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "bio-sustainable",
+        "Indian POV"
+    ],
+    "brand": "EcoBioGuard",
+    "weight": 5.5,
+    "features": [
+        "Bio-sustainable technology",
+        "Green shield protection",
+        "Balances ecosystem health",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT029",
+    "name": "HydroHarvest AquaBlend",
+    "description": "Hydroponic-friendly blend enriched with aqua-nutrients, designed for efficient nutrient delivery in Indian hydroponic systems.",
+    "type": "fertilizer",
+    "price": 599.99,
+    "originalPrice": 969.99,
+    "rating": 4.8,
+    "remainingQuantity": 170,
+    "totalSold": 135,
+    "inStock": true,
+    "images": [
+        "https://tiimg.tistatic.com/fp/1/007/772/highly-effective-kribhco-urea-fertilizer-urea-use-for-agriculture-packaging-size-50-kg-737.jpg",
+        "https://www.tradeindia.com/_next/image/?url=https%3A%2F%2Ftiimg.tistatic.com%2Ffp%2F1%2F007%2F766%2Futtam-neem-urea-for-agriculture-use-405.jpg&w=750&q=75"
+    ],
+    "categories": [
+        "fertilizer",
+        "hydroponic",
+        "Indian POV"
+    ],
+    "brand": "AquaHarvest",
+    "weight": 5.7,
+    "features": [
+        "Hydroponic-friendly formula",
+        "Optimized nutrient solutions",
+        "Promotes root development",
+        "Tailored for Indian hydroponics"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT030",
+    "name": "EverGreen Greenhouse Mix",
+    "description": "Greenhouse-friendly fertilizer blend catering to controlled environments, ensuring optimal growth for Indian crops.",
+    "type": "fertilizer",
+    "price": 519.99,
+    "originalPrice": 849.99,
+    "rating": 4.5,
+    "remainingQuantity": 190,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://images.jdmagicbox.com/quickquotes/images_main/sardar-fertilizers-and-soil-additives-05-03-2021-1-222868656-6ups8.jpg",
+        "https://tiimg.tistatic.com/fp/1/007/481/100-pure-kribhco-urea-fertilizers-n-46-percent-for-agriculture-purpose-use-328.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "greenhouse",
+        "Indian POV"
+    ],
+    "brand": "GreenhouseGuard",
+    "weight": 5.4,
+    "features": [
+        "Greenhouse-friendly blend",
+        "Controlled environment support",
+        "Tailored for Indian greenhouse crops",
+        "Promotes controlled growth"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT031",
+    "name": "AgroVibe SolarBoost",
+    "description": "Solar-powered fertilizer boosting nutrient absorption for Indian crops, combining sustainable practices with advanced agricultural technology.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://m.media-amazon.com/images/I/61zEK5s-LyL._AC_UF1000,1000_QL80_.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/9/347877748/AB/JF/KX/5483635/bio-dap-soil-coated-potassium-fertilizer-conditioner-500x500.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "solar",
+        "Indian POV"
+    ],
+    "brand": "SolarVibe",
+    "weight": 5.6,
+    "features": [
+        "Solar-powered nutrient absorption",
+        "Energy-efficient farming",
+        "Optimized for Indian crops",
+        "Enhanced nutrient availability"
+    ]
+},
+  
+
+  {
+    "productId": "PROD-FERT032",
+    "name": "TerraRoots RicePaddy Blend",
+    "description": "Tailored fertilizer blend for Indian rice paddies, optimizing soil conditions and nutrient delivery for robust rice crop yields.",
+    "type": "fertilizer",
+    "price": 529.99,
+    "originalPrice": 869.99,
+    "rating": 4.8,
+    "remainingQuantity": 180,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/DO/MU/MY-40550819/agricultural-fertilizer.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/3/295080011/AZ/TQ/DX/123527412/bhoomi-power-12-kg-1-.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "rice-paddy",
+        "Indian POV"
+    ],
+    "brand": "RiceRoots",
+    "weight": 5.5,
+    "features": [
+        "Tailored for rice paddies",
+        "Optimizes soil conditions",
+        "Promotes robust rice crop",
+        "Adaptable to Indian rice varieties"
+    ]
+},
+
+  {
+    "productId": "PROD-FERT033",
+    "name": "BioAquaTech AlgaeBoost",
+    "description": "Innovative algae-infused fertilizer promoting sustainable farming in Indian fields, harnessing the power of algae for nutrient-rich crops.",
+    "type": "fertilizer",
+    "price": 559.99,
+    "originalPrice": 909.99,
+    "rating": 4.7,
+    "remainingQuantity": 175,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/6/319516804/VZ/ER/FJ/4401531/tulsi-fertilizer-500x500.png",
+        "https://www.google.com/search?q=fertilizer+product+packet+hd+images&tbm=isch&hl=en-GB&chips=q:fertilizer+product+packet+hd+images,online_chips:plant+fertilizer:oUvSGUbIH9o%3D&bih=738&biw=712&client=opera-gx&hs=stk&sa=X&ved=2ahUKEwiI2ZC17omDAxUAcmwGHTJgB0oQ4VYoAHoECAEQMw#imgrc=1w5ijKp5h4uZcM"
+    ],
+    "categories": [
+        "fertilizer",
+        "algae",
+        "Indian POV"
+    ],
+    "brand": "AlgaeHarvest",
+    "weight": 5.6,
+    "features": [
+        "Algae-infused technology",
+        "Sustainable farming",
+        "Optimized nutrient absorption",
+        "Tailored for Indian crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT034",
+    "name": "EverGreen OrchidBloom Mix",
+    "description": "Specialized fertilizer blend for Indian orchids, providing a delicate balance of nutrients for vibrant and healthy orchid blooms.",
+    "type": "fertilizer",
+    "price": 499.99,
+    "originalPrice": 819.99,
+    "rating": 4.6,
+    "remainingQuantity": 190,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/325992805/HL/VY/YN/144293304/dap-fertilizer-for-plants-and-gardenin.webp",
+        "https://images.meesho.com/images/products/292788897/sofkh_128.webp"
+    ],
+    "categories": [
+        "fertilizer",
+        "orchid",
+        "Indian POV"
+    ],
+    "brand": "OrchidHarvest",
+    "weight": 5.3,
+    "features": [
+        "Specialized for orchids",
+        "Promotes vibrant blooms",
+        "Tailored nutrient balance",
+        "Enhances orchid health"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT035",
+    "name": "GreenGuard DesertBlend",
+    "description": "Fertilizer blend for arid Indian regions, promoting sustainable agriculture in desert landscapes and conserving water resources.",
+    "type": "fertilizer",
+    "price": 549.99,
+    "originalPrice": 899.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://plantogallery.com/cdn/shop/products/dap_1024x1024.jpg?v=1623691935",
+        "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9-FJMkPE7peNZI7oD9riZdZfoGHqTqxqk3oQU0-qiW1LVk6cWJKJ438ucPeA-8iewtD4&usqp=CAU"
+    ],
+    "categories": [
+        "fertilizer",
+        "desert",
+        "Indian POV"
+    ],
+    "brand": "DesertGuard",
+    "weight": 5.5,
+    "features": [
+        "Tailored for arid regions",
+        "Sustainable desert agriculture",
+        "Water-conserving formula",
+        "Adaptable to Indian desert crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT036",
+    "name": "TechHarvest PrecisionMix",
+    "description": "Precision fertilizer mix utilizing advanced technology for precise nutrient delivery, ensuring optimal growth for Indian crops.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 949.99,
+    "rating": 4.8,
+    "remainingQuantity": 175,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-07/NPS-20-20-0-13.jpg",
+        "https://5.imimg.com/data5/SELLER/Default/2023/7/321873364/XJ/LQ/TL/84347278/agricultural-dap-fertilizer.jpg"
+    ],
+    "categories": [
+        "fertilizer",
+        "precision",
+        "Indian POV"
+    ],
+    "brand": "PrecisionHarvest",
+    "weight": 5.6,
+    "features": [
+        "Precision nutrient delivery",
+        "Advanced farming technology",
+        "Optimized for Indian crops",
+        "Enhanced nutrient absorption"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT037",
+    "name": "AgroVibe AyurBlend",
+    "description": "Ayurvedic-inspired fertilizer blend infused with traditional herbs, promoting holistic growth for Indian crops with ancient herbal wisdom.",
+    "type": "fertilizer",
+    "price": 559.99,
+    "originalPrice": 919.99,
+    "rating": 4.7,
+    "remainingQuantity": 170,
+    "totalSold": 145,
+    "inStock": true,
+    "images": [
+        "https://www.coromandel.biz/wp-content/uploads/2021/06/dap-1.png",
+        "https://www.coromandel.biz/wp-content/uploads/2021/06/10-26-26-Zn-Featured.png"
+    ],
+    "categories": [
+        "fertilizer",
+        "Ayurvedic",
+        "Indian POV"
+    ],
+    "brand": "AyurVibe",
+    "weight": 5.5,
+    "features": [
+        "Ayurvedic herbal infusion",
+        "Holistic crop nourishment",
+        "Ancient herbal wisdom",
+        "Tailored for Indian agriculture"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT038",
+    "name": "GreenHarbor SeaMineral Mix",
+    "description": "Sea mineral-enriched fertilizer blend for Indian coastal agriculture, harnessing the power of the sea for nutrient-rich and resilient crops.",
+    "type": "fertilizer",
+    "price": 589.99,
+    "originalPrice": 959.99,
+    "rating": 4.8,
+    "remainingQuantity": 165,
+    "totalSold": 140,
+    "inStock": true,
+    "images": [
+        "https://m.media-amazon.com/images/I/71L+nPKP00L.jpg",
+        "https://img3.exportersindia.com/product_images/bc-full/2020/5/4091139/npk-fertilizer-1589954563-5442083.jpeg"
+    ],
+    "categories": [
+        "fertilizer",
+        "sea-mineral",
+        "Indian POV"
+    ],
+    "brand": "SeaHarbor",
+    "weight": 5.7,
+    "features": [
+        "Sea mineral-enriched blend",
+        "Coastal agriculture support",
+        "Promotes crop resilience",
+        "Tailored for Indian coastal crops"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT039",
+    "name": "NatureBoost HimalayanBlend",
+    "description": "Himalayan-inspired fertilizer blend for Indian high-altitude farming, providing specialized nutrients for crops in challenging terrains.",
+    "type": "fertilizer",
+    "price": 519.99,
+    "originalPrice": 849.99,
+    "rating": 4.6,
+    "remainingQuantity": 185,
+    "totalSold": 155,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbeMgAlISpNsAx_FdlSW2rMsjNw_qWf-SXsw&usqp=CAU",
+        "https://images.jdmagicbox.com/quickquotes/images_main/calsiphos-organic-agriculture-fertilizer-22-01-2021-600-220042331-eafzj.png"
+    ],
+    "categories": [
+        "fertilizer",
+        "Himalayan",
+        "Indian POV"
+    ],
+    "brand": "HimalayaBoost",
+    "weight": 5.4,
+    "features": [
+        "Himalayan-inspired blend",
+        "Specialized nutrients for high-altitude farming",
+        "Adaptable to challenging terrains",
+        "Promotes crop resilience"
+    ]
+},
+  
+  {
+    "productId": "PROD-FERT040",
+    "name": "BioTech NanoNutrient Mix",
+    "description": "Nano-nutrient fertilizer using advanced biotechnology for efficient nutrient absorption, ensuring optimal growth for Indian crops.",
+    "type": "fertilizer",
+    "price": 579.99,
+    "originalPrice": 939.99,
+    "rating": 4.7,
+    "remainingQuantity": 180,
+    "totalSold": 150,
+    "inStock": true,
+    "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNIV_efDbXw_obVr8KtRoERHM-56B_aKnPJA&usqp=CAU",
+        "https://gogarden.co.in/cdn/shop/files/Go-Garden-NPK-20-20-20-Water-Soluble-Fertilizer-for-Plants-Growth-Fertilizer-for-Home-Plants-100-Water-Soluble-1-600x600.jpg?v=1684151891"
+    ],
+    "categories": [
+        "fertilizer",
+        "nano-nutrient",
+        "Indian POV"
+    ],
+    "brand": "NanoHarvest",
+    "weight": 5.6,
+    "features": [
+        "Advanced nano-nutrient technology",
+        "Efficient nutrient absorption",
+        "Optimized for Indian crops",
+        "Enhanced growth at the molecular level"
+    ]
+}
+]

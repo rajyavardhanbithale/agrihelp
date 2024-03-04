@@ -1,0 +1,31 @@
+# Ignore compiled Python files
+server/__pycache__/
+server/*.pyc
+server/*.pyo
+server/*.pyd
+
+# Ignore virtual environment
+server/venv/
+
+# Ignore Node.js dependencies
+client/node_modules/
+
+# Ignore Next.js build directory
+client/.next/
+client/.env/
+# Ignore logs and generated files
+logs/
+*.log
+*.log.*
+npm-debug.log*
+
+# Ignore environment variables file
+server/.env
+
+# Ignore database files
+server/db.sqlite
+server/*.db
+
+# Ignore system files
+.DS_Store
+Thumbs.db

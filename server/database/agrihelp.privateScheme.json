@@ -1,0 +1,210 @@
+[{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a3"
+  },
+  "name": "Bharat Kisan Unnati Yojana",
+  "description": "Our company is committed to the prosperity of farmers through the Bharat Kisan Unnati Yojana, providing financial support to eligible farmer families.",
+  "image": "https://i.pinimg.com/originals/b7/fd/93/b7fd938fc2d1ac2f51cd5aa888c014d8.jpg",
+  "openDate": "September 5, 2023",
+  "closeDate": "December 20, 2023",
+  "isOpen": false,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "across India",
+  "companyName": "HarvestPro India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a4"
+  },
+  "name": "Krishi Samarthan Yojana",
+  "description": "Supporting the backbone of our nation, the Krishi Samarthan Yojana aims to uplift farmers by providing financial assistance through our organization.",
+  "image": "https://graphicsfamily.com/wp-content/uploads/2020/08/agriculture-logo-design-free-downlaod-scaled.jpg",
+  "openDate": "October 1, 2023",
+  "closeDate": "January 15, 2024",
+  "isOpen": true,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "pan-India",
+  "companyName": "AgriGrowth Solutions Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a5"
+  },
+  "name": "Samruddhi Kisan Sahay Yojana",
+  "description": "Our organization introduces the Samruddhi Kisan Sahay Yojana, a dedicated initiative to provide financial aid to eligible farmer families for their well-being.",
+  "image": "https://i.pinimg.com/474x/97/9d/d6/979dd62b85bab4d2e54ab50cd1d176c9.jpg",
+  "openDate": "November 15, 2023",
+  "closeDate": "March 10, 2024",
+  "isOpen": true,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "nationwide",
+  "companyName": "FarmSustain India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a6"
+  },
+  "name": "Sahayata Krishi Samriddhi Yojana",
+  "description": "In our commitment to the agricultural community, we present the Sahayata Krishi Samriddhi Yojana, offering financial support to eligible farmers across the country.",
+  "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/agriculture-logo-design-template-206fed7b3986bebcf90534d85230bd83_screen.jpg?ts=1598218593",
+  "openDate": "December 10, 2023",
+  "closeDate": "April 5, 2024",
+  "isOpen": true,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "across India",
+  "companyName": "AgroCare India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a7"
+  },
+  "name": "Krishi Kalyan Samridhi Yojana",
+  "description": "The Krishi Kalyan Samridhi Yojana is our initiative to promote the well-being of farmers by providing financial assistance to eligible farmer families.",
+  "image": "https://png.pngtree.com/png-clipart/20230102/original/pngtree-agricultural-logo-png-image_8855542.png",
+  "openDate": "January 8, 2024",
+  "closeDate": "May 20, 2024",
+  "isOpen": false,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "pan-India",
+  "companyName": "GreenHarvest Agro Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a8"
+  },
+  "name": "Kisan Suraksha Yojana",
+  "description": "Our organization is proud to present the Kisan Suraksha Yojana, offering financial security to eligible farmer families as a part of our commitment to agriculture.",
+  "image": "https://t4.ftcdn.net/jpg/02/47/91/15/360_F_247911560_Atxtd5ADIGyAdW0OwIVe8KHBXXb2BdyC.jpg",
+  "openDate": "February 15, 2024",
+  "closeDate": "June 30, 2024",
+  "isOpen": true,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "nationwide",
+  "companyName": "FarmGuard Solutions Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8a9"
+  },
+  "name": "Annapurna Kisan Vikas Yojana",
+  "description": "We introduce the Annapurna Kisan Vikas Yojana, our initiative to foster the development of farmers by providing financial support to eligible farmer families.",
+  "image": "https://png.pngtree.com/png-clipart/20220509/original/pngtree-agriculture-logo-design-with-rice-and-sun-icon-in-circle-png-image_7667663.png",
+  "openDate": "March 20, 2024",
+  "closeDate": "July 15, 2024",
+  "isOpen": true,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "across India",
+  "companyName": "AgroProsper India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8aa"
+  },
+  "name": "Kisan Samriddhi Suraksha Yojana",
+  "description": "The Kisan Samriddhi Suraksha Yojana is our commitment to ensuring the prosperity and security of farmers by providing financial assistance to eligible farmer families.",
+  "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/agriculture-logo-design-template-8e3bd9017b68af24720bf9b32afae987_screen.jpg?ts=1629395704",
+  "openDate": "April 5, 2024",
+  "closeDate": "August 20, 2024",
+  "isOpen": true,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "pan-India",
+  "companyName": "AgriGrowth Solutions Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8ab"
+  },
+  "name": "Krishi Samarthak Yojana",
+  "description": "Supporting the backbone of our nation, the Krishi Samarthak Yojana aims to uplift farmers by providing financial assistance through our organization.",
+  "image": "https://s.tmimgcdn.com/scr/800x500/275700/agriculture-logo-nature-logo_275774-original.jpg",
+  "openDate": "May 10, 2024",
+  "closeDate": "September 30, 2024",
+  "isOpen": false,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "nationwide",
+  "companyName": "FarmSustain India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8ac"
+  },
+  "name": "Sahayata Krishi Suraksha Yojana",
+  "description": "In our commitment to the agricultural community, we present the Sahayata Krishi Suraksha Yojana, offering financial support to eligible farmers across the country.",
+  "image": "https://cdn.dribbble.com/userupload/9191906/file/original-586b2e412ca882e4e11f534a8f446633.jpg?crop=108x14-1105x762",
+  "openDate": "June 15, 2024",
+  "closeDate": "October 15, 2024",
+  "isOpen": false,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "across India",
+  "companyName": "AgroCare India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8ad"
+  },
+  "name": "Krishi Kalyan Suraksha Yojana",
+  "description": "The Krishi Kalyan Suraksha Yojana is our initiative to promote the well-being of farmers by providing financial assistance to eligible farmer families.",
+  "image": "https://static.vecteezy.com/system/resources/previews/020/618/732/original/agriculture-logo-concept-branding-creative-simple-icon-vector.jpg",
+  "openDate": "July 10, 2024",
+  "closeDate": "November 20, 2024",
+  "isOpen": true,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "pan-India",
+  "companyName": "GreenHarvest Agro Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8ae"
+  },
+  "name": "Kisan Suraksha Samriddhi Yojana",
+  "description": "Our organization is proud to present the Kisan Suraksha Samriddhi Yojana, offering financial security to eligible farmer families as a part of our commitment to agriculture.",
+  "image": "https://previews.123rf.com/images/boransari/boransari2008/boransari200800355/153947844-agriculture-logo-farming-logo-farm-logo.jpg",
+  "openDate": "August 20, 2024",
+  "closeDate": "December 10, 2024",
+  "isOpen": false,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "nationwide",
+  "companyName": "FarmGuard Solutions Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8af"
+  },
+  "name": "Annapurna Kisan Suraksha Yojana",
+  "description": "We introduce the Annapurna Kisan Suraksha Yojana, our initiative to foster the development of farmers by providing financial support to eligible farmer families.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShIXdGwWPR108XVERGAf44tl5PgbZsda6Szw&usqp=CAU",
+  "openDate": "September 5, 2024",
+  "closeDate": "January 15, 2025",
+  "isOpen": false,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "across India",
+  "companyName": "AgroProsper India Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8b0"
+  },
+  "name": "Kisan Samriddhi Suraksha Yojana",
+  "description": "The Kisan Samriddhi Suraksha Yojana is our commitment to ensuring the prosperity and security of farmers by providing financial assistance to eligible farmer families.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAEbHcfymsxxP7WYvZqbaAnGN90g8iO0906A&usqp=CAU",
+  "openDate": "October 10, 2024",
+  "closeDate": "February 28, 2025",
+  "isOpen": false,
+  "eligibility": "Available for small and marginal farmers with landholding below 2 hectares. Aadhaar and a linked bank account are mandatory. Self-declaration of land ownership not exceeding 2 hectares is required.",
+  "region": "pan-India",
+  "companyName": "AgriGrowth Zone Pvt. Ltd."
+},
+{
+  "_id": {
+    "$oid": "65800099ecf9b8b717b6a8b1"
+  },
+  "name": "Krishi Samarthak Suraksha Yojana",
+  "description": "Supporting the backbone of our nation, the Krishi Samarthak Suraksha Yojana aims to uplift farmers by providing financial assistance through our organization.",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM1ugKIY8jeWX6tl2j_ANAYxP01-5NHifrFt6xxcmoAIgOO4FqOSLBZiWPudKp-fbPVwY&usqp=CAU",
+  "openDate": "November 15, 2024",
+  "closeDate": "March 20, 2025",
+  "isOpen": true,
+  "eligibility": "Open to small and marginal farmers owning less than 2 hectares of land. Valid Aadhaar number and linked bank account required. Self-declaration of land ownership not exceeding 2 hectares.",
+  "region": "nationwide",
+  "companyName": "FarmSustain India Pvt. Ltd."
+}]

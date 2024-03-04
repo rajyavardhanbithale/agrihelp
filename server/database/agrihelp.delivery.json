@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6579fd56d5f964a7345fe9a7"
+  },
+  "name": "MetroMover Couriers",
+  "freeCost": 200,
+  "freeDelivery": "3-4",
+  "isExpress": true,
+  "expressDelivery": "1-2",
+  "expressCost": 50,
+  "codOption": true,
+  "image": "https://i.pinimg.com/474x/4e/1a/f1/4e1af1a111cd3d66dbf3574f54cf2099.jpg",
+  "id": "DE-MMC"
+},
+{
+  "_id": {
+    "$oid": "6579fd56d5f964a7345fe9a8"
+  },
+  "name": "SwiftConnect Logistics",
+  "freeCost": 200,
+  "freeDelivery": "3-4",
+  "isExpress": true,
+  "expressDelivery": "1-2",
+  "expressCost": 50,
+  "codOption": true,
+  "image": "https://t3.ftcdn.net/jpg/03/91/89/84/360_F_391898485_QPJhJT5WJVLFOAplGXmZWKFbyHW9VAdm.jpg",
+  "id": "DE-SCL"
+},
+{
+  "_id": {
+    "$oid": "6579fd56d5f964a7345fe9a9"
+  },
+  "name": "RapidParcel Express",
+  "freeCost": 200,
+  "freeDelivery": "3-4",
+  "isExpress": true,
+  "expressDelivery": "1-2",
+  "expressCost": 50,
+  "codOption": true,
+  "image": "https://i.pinimg.com/originals/c7/2d/57/c72d574bb2fc9f2d011e62d9282fe06d.jpg",
+  "id": "DE-RPE"
+}]

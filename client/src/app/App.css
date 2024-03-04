@@ -1,0 +1,98 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
+
+
+/* *{
+  outline: 1px red solid;
+} */
+
+body {
+  /* font-family: 'Poppins', sans-serif; */
+  /* background: #fff; */
+  color: #000;
+  /* background: linear-gradient(195deg, rgb(239, 239, 240) 0%, rgb(239, 240, 241) 100%); */
+}
+
+.slick-prev {
+  left: 3% !important;
+  z-index: 1;
+}
+
+.slick-next {
+  right: 3% !important;
+  z-index: 1;
+}
+
+h1{
+  font-size: 50px
+}
+
+
+.navbar__blur {
+  background: rgba(165, 165, 165, 0.09);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+
+  position: fixed;
+  top: 10px;
+
+  border-radius: 25px;
+}
+
+.hero__button {
+  background: rgba(136, 138, 147, 0.29);
+  border-radius: 30px;
+  box-shadow: 0 4px 30px rgba(93, 92, 92, 0.1);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.glass__tooltip{
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba(105, 102, 160, 0.37);
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.band__font{
+  /* font-family: 'Macondo',cursive; */
+  font-family: 'Major Mono Display',monospace;
+  font-weight: bold;
+  
+}
+
+.Toastify__toast-theme--dark {
+  background: #fff;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover,
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+  -webkit-text-fill-color: rgb(32, 32, 32);
+  -webkit-box-shadow: 0 0 0px 1000px #d6d3d3 inset;
+  box-shadow: 0 0 0px 1000px #d6d3d3 inset;
+  transition: background-color 5000s ease-in-out 0s;
+  color: white;
+}
+
+input{
+  border-radius: 48px;
+  background: #e4e3e3;
+  box-shadow:  1px 1px 2px #d3d2d2,
+               -1px -1px 2px #eceaea;
+}
+
+@media (max-width: 640px) {
+  .custom__mobile__hero {
+    text-align: justify;
+  }
+}
