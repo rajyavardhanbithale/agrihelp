@@ -687,7 +687,7 @@ app.add_middleware(
         "http://localhost:3000",
         "http://192.168.29.82:3000",
         "https://agrihelp-3.vercel.app",
-        "https://agrihelp.vercel.app/"
+        "https://agrihelp.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
