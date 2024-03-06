@@ -146,12 +146,15 @@ Visit [AGRIHELP](https://agrihelp-3.vercel.app/) to embark on a journey towards 
 
 
 ### Vedant Sahu
-#### ReactJS, Tailwindcss, NodeJS
+#### ReactJS, Tailwindcss, NodeJS , NextJS
 <a href="https://in.linkedin.com/in/vedant-sahu-b4298324a" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/vedantxtrem" target="_blank">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.instagram.com/vedant_xtrem_99/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="mailto:vedant@ssipmt.com" target="_blank">
