@@ -323,8 +323,6 @@ class BackendAPI:
 
     async def cropDefect(self, file1: UploadFile = File(...)):
         contents = await file1.read()
-        print(contents)
-
         return disease_pred.predict_image(contents)
 
     async def shopItem(self, item: int, category: str):
