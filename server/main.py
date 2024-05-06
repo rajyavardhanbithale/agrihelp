@@ -3,7 +3,7 @@ from fastapi import FastAPI, APIRouter, Request, HTTPException, UploadFile, File
 import os
 
 from fastapi.middleware.cors import CORSMiddleware
-from httpx import request
+
 import pymongo
 import json
 import time
@@ -322,21 +322,10 @@ class BackendAPI:
         return fertilizer_reco.fert_recommend(N=N, P=P, K=K, crop=crop)
 
     async def cropDefect(self, file1: UploadFile = File(...)):
-        unique = time.time()
-        print(file1)
-        try:
+        contents = await file1.read()
+        print(contents)
 
-            contents = file1.file.read()
-            with open(f"crop_image/{unique}"+file1.filename, 'wb') as f:
-                f.write(contents)
-        except Exception:
-            return {"message": "There was an error uploading the file"}
-        finally:
-            file1.file.close()
-
-        # return file.filename
-        print("(disease_pred.predict_image(file.filename)")
-        return disease_pred.predict_image(f"crop_image/{unique}"+file1.filename)
+        return disease_pred.predict_image(contents)
 
     async def shopItem(self, item: int, category: str):
         random_records = list(collection.aggregate([

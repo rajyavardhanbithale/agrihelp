@@ -65,11 +65,11 @@ def predict_image(imgDetect, model=disease_model):
         transforms.ToTensor(),
     ])
     
-    with open(imgDetect, 'rb') as image_file:
-        img_bytes = image_file.read()
+    # with open(imgDetect, 'rb') as image_file:
+    #     img_bytes = image_file.read()
 
 
-    image = Image.open(io.BytesIO(img_bytes))
+    image = Image.open(io.BytesIO(imgDetect))
     img_t = transform(image)
     img_u = torch.unsqueeze(img_t, 0)
 
