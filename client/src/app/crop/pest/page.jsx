@@ -16,13 +16,15 @@ export default function Pest() {
     const [error, setError] = useState(null);
 
     const handleFileChange = (e) => {
-        const selectedFile = e.target.files[0];
+        // const selectedFile = e.target.files[0];
 
-        if (selectedFile && selectedFile.type.startsWith('image/')) {
-            setFile(selectedFile);
-        } else {
-            alert("Please select a valid image file.");
-        }
+        // if (selectedFile && selectedFile.type.startsWith('image/')) {
+        //     setFile(selectedFile);
+        // } else {
+        //     alert("Please select a valid image file.");
+        // }
+
+        setError('This feature is currently not in service')
     };
 
     useEffect(() => {

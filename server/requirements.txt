@@ -7,5 +7,4 @@ cryptography
 python-dotenv 
 pydantic 
 numpy 
-torchvision 
 panda  

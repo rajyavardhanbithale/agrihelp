@@ -23,7 +23,7 @@ from user import delete_user
 from verification import sendMail
 from weather import analyse
 from ml import fertilizer_reco
-from ml import disease_pred
+# from ml import disease_pred
 from ml import crop_reco
 
 from shop import order_tracking
@@ -321,9 +321,12 @@ class BackendAPI:
     async def fertilizerReccom(self, N: float, P: float, K: float, crop: str):
         return fertilizer_reco.fert_recommend(N=N, P=P, K=K, crop=crop)
 
-    async def cropDefect(self, file1: UploadFile = File(...)):
-        contents = await file1.read()
-        return disease_pred.predict_image(contents)
+    # async def cropDefect(self, file1: UploadFile = File(...)):
+    #     contents = await file1.read()
+    #     return disease_pred.predict_image(contents)
+
+    async def cropDefect(self):
+        return "this feature is currently not in service"
 
     async def shopItem(self, item: int, category: str):
         random_records = list(collection.aggregate([
@@ -684,3 +687,6 @@ app.add_middleware(
 api = BackendAPI()
 app.include_router(api.router)
 
+
+
+# pip install --upgrade pip && pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu && pip install uvicorn==0.23.2 dnspython gunicorn==20.1.0 fastapi==0.101.0 pymongo==4.6.1 scikit-learn==1.2.1 cryptography==38.0.4 python-dotenv pydantic==1.10.4 numpy==1.24.2 pandas==1.5.3 python-multipart pyparsing requests httpx
