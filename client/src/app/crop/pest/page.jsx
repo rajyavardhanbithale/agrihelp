@@ -36,7 +36,7 @@ export default function Pest() {
                 formData.append('file1', file);
 
                 try {
-                   
+
                     const response = await axios.post(`${process.env.NEXT_PUBLIC_API_ENDPOINT}/crop/defect`, formData, {
                         headers: {
                             'Content-Type': 'multipart/form-data',
@@ -57,10 +57,10 @@ export default function Pest() {
                 }
             }
         };
-        
+
         uploadAndPostData();
     }, [file]);
-    
+
     console.log(apiData);
 
     return (
@@ -126,6 +126,11 @@ export default function Pest() {
                                     </div>
                                 )}
 
+                                <div className="mt-4 flex flex-col w-full gap-3 justify-center text-center">
+                                    
+                                    <p className="text-red-600 text-xl">This feature is currently not in service</p>
+                                </div>
+
                             </div>
 
                         </div>
@@ -147,7 +152,7 @@ export default function Pest() {
                     ) : null}
                 </div>
 
-               <div id="recommendation" className="p-20"></div>
+                <div id="recommendation" className="p-20"></div>
 
 
 
